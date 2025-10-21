@@ -1,0 +1,2001 @@
+Expense_Date,Expense_Type,Expense_Amount,Payment_Method,Cost_Center/Department
+2024-09-13 23:16:33.972190,Maintenance,12592.51,Direct Debit,IT
+2023-11-22 23:16:33.972190,Salaries,17641.35,Credit Card,Marketing
+2024-01-20 23:16:33.972190,Maintenance,13256.21,Credit Card,Finance
+2024-04-10 23:16:33.972190,Maintenance,5049.55,Check,Operations
+2024-09-30 23:16:33.972190,Salaries,16599.39,Credit Card,Marketing
+2024-02-29 23:16:33.972190,Salaries,19961.98,Check,Marketing
+2024-03-05 23:16:33.972190,Salaries,4647.99,Check,IT
+2023-10-28 23:16:33.972190,Utilities,9227.5,Credit Card,Marketing
+2023-12-17 23:16:33.972190,Maintenance,17254.43,Direct Debit,Marketing
+2024-04-15 23:16:33.972190,Technology,1637.33,Check,HR
+2024-01-22 23:16:33.972190,Salaries,3120.66,Credit Card,Operations
+2024-09-03 23:16:33.972190,Utilities,7058.9,Credit Card,HR
+2024-09-13 23:16:33.972190,Salaries,2935.99,Credit Card,Marketing
+2024-07-03 23:16:33.972190,Utilities,12893.71,Credit Card,Marketing
+2023-10-10 23:16:33.972190,Technology,9615.31,Credit Card,Operations
+2024-01-06 23:16:33.972190,Utilities,18312.45,Direct Debit,Finance
+2024-06-08 23:16:33.972190,Maintenance,6371.35,Direct Debit,Marketing
+2024-08-29 23:16:33.972190,Rent,7561.89,Direct Debit,Operations
+2023-12-06 23:16:33.972190,Maintenance,17636.49,Credit Card,Marketing
+2024-05-05 23:16:33.972190,Technology,13267.27,Credit Card,IT
+2024-09-09 23:16:33.972190,Utilities,15616.33,Direct Debit,IT
+2024-03-08 23:16:33.972190,Technology,7550.68,Check,Marketing
+2023-12-15 23:16:33.972190,Technology,6108.91,Credit Card,HR
+2024-09-03 23:16:33.972190,Technology,18471.78,Credit Card,IT
+2024-07-16 23:16:33.972190,Maintenance,13541.19,Check,Marketing
+2023-10-30 23:16:33.972190,Salaries,8749.83,Credit Card,IT
+2024-02-09 23:16:33.972190,Utilities,14395.84,Direct Debit,HR
+2024-03-06 23:16:33.972190,Technology,3950.49,Credit Card,Operations
+2023-12-21 23:16:33.972190,Salaries,10710.17,Credit Card,IT
+2024-08-15 23:16:33.972190,Salaries,16543.08,Direct Debit,Operations
+2024-08-16 23:16:33.972190,Salaries,3309.74,Check,Marketing
+2024-05-05 23:16:33.972190,Salaries,11566.95,Direct Debit,Finance
+2024-08-05 23:16:33.972190,Salaries,6960.75,Credit Card,Finance
+2024-02-09 23:16:33.972190,Technology,12762.37,Check,Marketing
+2024-06-18 23:16:33.972190,Technology,17811.8,Check,Finance
+2024-01-28 23:16:33.972190,Salaries,4589.95,Direct Debit,Finance
+2024-04-14 23:16:33.972190,Salaries,8304.18,Credit Card,Finance
+2024-08-15 23:16:33.972190,Salaries,5294.29,Direct Debit,HR
+2023-11-21 23:16:33.972190,Technology,11462.72,Direct Debit,HR
+2024-08-07 23:16:33.972190,Technology,9669.73,Direct Debit,HR
+2024-04-09 23:16:33.972190,Utilities,15850.72,Check,Marketing
+2024-04-04 23:16:33.972190,Rent,3514.01,Check,Operations
+2024-01-17 23:16:33.972190,Maintenance,17127.84,Direct Debit,Operations
+2024-05-10 23:16:33.972190,Salaries,3344.27,Check,Operations
+2024-04-01 23:16:33.972190,Technology,14936.6,Direct Debit,HR
+2024-05-05 23:16:33.972190,Maintenance,6509.89,Credit Card,Marketing
+2023-12-24 23:16:33.972190,Technology,1434.44,Credit Card,IT
+2024-10-03 23:16:33.972190,Utilities,2488.18,Credit Card,IT
+2024-07-14 23:16:33.972190,Utilities,4064.76,Direct Debit,Finance
+2024-05-13 23:16:33.972190,Rent,10359.74,Check,IT
+2024-08-23 23:16:33.972190,Utilities,10616.77,Credit Card,Marketing
+2024-08-04 23:16:33.972190,Salaries,15514.45,Credit Card,Finance
+2024-06-27 23:16:33.972190,Maintenance,17343.54,Direct Debit,Marketing
+2024-06-05 23:16:33.972190,Salaries,10483.78,Credit Card,Finance
+2024-07-18 23:16:33.972190,Salaries,11640.22,Credit Card,Finance
+2024-02-16 23:16:33.972190,Utilities,17048.92,Direct Debit,HR
+2024-08-11 23:16:33.972190,Maintenance,10852.61,Direct Debit,HR
+2024-05-09 23:16:33.972190,Technology,12451.92,Check,Finance
+2024-05-29 23:16:33.972190,Salaries,9032.96,Direct Debit,Marketing
+2024-03-17 23:16:33.972190,Rent,8109.77,Direct Debit,Marketing
+2024-07-17 23:16:33.972190,Salaries,10831.49,Direct Debit,Marketing
+2023-11-17 23:16:33.972190,Technology,3891.45,Check,HR
+2024-04-26 23:16:33.972190,Salaries,5885.7,Direct Debit,Operations
+2024-09-04 23:16:33.972190,Utilities,6202.49,Direct Debit,Marketing
+2024-01-01 23:16:33.972190,Technology,8308.96,Credit Card,HR
+2024-04-06 23:16:33.972190,Salaries,14039.86,Direct Debit,Operations
+2024-05-23 23:16:33.972190,Utilities,13536.49,Check,IT
+2024-07-06 23:16:33.972190,Utilities,8270.84,Check,Finance
+2024-08-14 23:16:33.972190,Technology,18713.1,Credit Card,Operations
+2024-05-21 23:16:33.972190,Rent,12088.78,Credit Card,IT
+2024-06-13 23:16:33.972190,Utilities,12464.86,Check,Marketing
+2023-10-24 23:16:33.972190,Salaries,7212.87,Credit Card,HR
+2024-09-28 23:16:33.972190,Maintenance,8321.64,Credit Card,Marketing
+2024-06-09 23:16:33.972190,Technology,19714.86,Check,Operations
+2024-02-17 23:16:33.972190,Salaries,1634.39,Credit Card,Operations
+2024-01-14 23:16:33.972190,Maintenance,10011.92,Direct Debit,Finance
+2023-11-12 23:16:33.972190,Maintenance,13367.67,Check,IT
+2024-05-22 23:16:33.972190,Technology,13039.02,Credit Card,Finance
+2023-10-27 23:16:33.972190,Utilities,12558.66,Direct Debit,Marketing
+2024-04-09 23:16:33.972190,Utilities,11079.48,Credit Card,Operations
+2024-07-29 23:16:33.972190,Utilities,3491.81,Check,Finance
+2024-05-25 23:16:33.972190,Maintenance,6049.74,Check,Marketing
+2024-09-06 23:16:33.972190,Technology,8339.67,Credit Card,Finance
+2024-08-12 23:16:33.972190,Rent,5184.94,Check,Marketing
+2024-06-03 23:16:33.972190,Salaries,5245.15,Check,Finance
+2024-02-02 23:16:33.972190,Maintenance,17586.94,Check,Marketing
+2024-07-30 23:16:33.972190,Maintenance,11105.62,Check,IT
+2023-12-08 23:16:33.972190,Salaries,9802.67,Check,HR
+2024-08-08 23:16:33.972190,Technology,5174.99,Direct Debit,Marketing
+2024-05-01 23:16:33.972190,Salaries,13026.17,Direct Debit,IT
+2024-06-17 23:16:33.972190,Utilities,4683.73,Direct Debit,HR
+2024-09-27 23:16:33.972190,Maintenance,1243.78,Check,HR
+2023-11-10 23:16:33.972190,Rent,4411.32,Direct Debit,Marketing
+2023-10-08 23:16:33.972190,Maintenance,17285.85,Direct Debit,IT
+2024-07-06 23:16:33.972190,Salaries,7502.16,Direct Debit,IT
+2024-03-31 23:16:33.972190,Rent,3027.26,Direct Debit,HR
+2023-12-19 23:16:33.972190,Technology,18338.74,Credit Card,IT
+2024-05-06 23:16:33.972190,Utilities,4620.37,Direct Debit,Operations
+2023-12-09 23:16:33.972190,Salaries,3777.52,Credit Card,Operations
+2024-09-04 23:16:33.972190,Technology,13859.24,Credit Card,Operations
+2023-11-20 23:16:33.972190,Utilities,18111.15,Check,IT
+2024-01-02 23:16:33.972190,Technology,18752.04,Direct Debit,Marketing
+2024-09-28 23:16:33.972190,Salaries,8175.15,Direct Debit,Operations
+2024-05-17 23:16:33.972190,Technology,7038.54,Credit Card,IT
+2024-05-15 23:16:33.972190,Utilities,15874.23,Direct Debit,Marketing
+2024-08-30 23:16:33.972190,Technology,4181.68,Direct Debit,Operations
+2024-08-02 23:16:33.972190,Maintenance,8042.2,Direct Debit,HR
+2024-09-24 23:16:33.972190,Salaries,15884.91,Check,Operations
+2024-01-28 23:16:33.972190,Technology,14770.18,Direct Debit,Operations
+2024-04-03 23:16:33.972190,Utilities,13465.52,Credit Card,Finance
+2024-02-01 23:16:33.972190,Salaries,14835.74,Check,IT
+2024-04-28 23:16:33.972190,Technology,2027.6,Direct Debit,HR
+2024-07-09 23:16:33.972190,Salaries,6692.95,Direct Debit,HR
+2023-12-23 23:16:33.972190,Technology,11857.36,Direct Debit,Operations
+2024-06-23 23:16:33.972190,Salaries,5720.38,Direct Debit,Marketing
+2024-04-05 23:16:33.972190,Rent,12063.93,Check,Finance
+2024-04-20 23:16:33.972190,Technology,11268.09,Credit Card,HR
+2024-05-21 23:16:33.972190,Technology,12522.47,Check,Marketing
+2024-01-23 23:16:33.972190,Maintenance,17247.91,Direct Debit,Operations
+2023-10-19 23:16:33.972190,Maintenance,4395.02,Check,Marketing
+2023-11-26 23:16:33.972190,Utilities,10432.8,Check,HR
+2023-11-23 23:16:33.972190,Utilities,7427.92,Direct Debit,Marketing
+2024-08-22 23:16:33.972190,Salaries,17401.69,Direct Debit,IT
+2024-07-01 23:16:33.972190,Technology,5369.22,Credit Card,Marketing
+2024-01-11 23:16:33.972190,Utilities,10352.49,Direct Debit,HR
+2024-05-13 23:16:33.972190,Maintenance,8958.23,Check,HR
+2024-01-18 23:16:33.972190,Rent,7862.09,Direct Debit,Finance
+2024-04-14 23:16:33.972190,Maintenance,19121.23,Check,IT
+2024-07-23 23:16:33.972190,Rent,16270.89,Credit Card,Marketing
+2023-12-25 23:16:33.972190,Maintenance,5439.17,Check,HR
+2024-02-03 23:16:33.972190,Maintenance,8085.93,Check,Operations
+2024-03-27 23:16:33.972190,Technology,18280.33,Credit Card,Marketing
+2023-12-19 23:16:33.972190,Salaries,5162.1,Direct Debit,Operations
+2024-08-24 23:16:33.972190,Rent,10387.43,Check,Operations
+2024-05-13 23:16:33.972190,Utilities,18276.14,Credit Card,Marketing
+2024-05-25 23:16:33.972190,Rent,4715.59,Credit Card,Marketing
+2023-12-25 23:16:33.972190,Maintenance,5566.21,Credit Card,Operations
+2024-07-19 23:16:33.972190,Technology,16724.2,Credit Card,HR
+2024-03-18 23:16:33.972190,Salaries,15307.26,Check,Marketing
+2024-01-19 23:16:33.972190,Salaries,4330.04,Credit Card,Finance
+2024-06-03 23:16:33.972190,Technology,5231.69,Direct Debit,HR
+2023-12-16 23:16:33.972190,Rent,19884.67,Direct Debit,HR
+2024-06-11 23:16:33.972190,Utilities,8890.63,Credit Card,Finance
+2024-02-19 23:16:33.972190,Utilities,13595.45,Credit Card,Finance
+2024-07-10 23:16:33.972190,Rent,13943.01,Check,Marketing
+2024-01-12 23:16:33.972190,Technology,12521.24,Direct Debit,Finance
+2024-01-12 23:16:33.972190,Maintenance,10778.55,Check,Finance
+2024-04-15 23:16:33.972190,Salaries,15827.34,Direct Debit,Marketing
+2024-03-06 23:16:33.972190,Maintenance,14249.77,Check,Finance
+2024-05-13 23:16:33.972190,Rent,2719.69,Credit Card,Marketing
+2024-09-28 23:16:33.972190,Utilities,3323.28,Direct Debit,IT
+2024-08-14 23:16:33.972190,Salaries,16366.33,Direct Debit,IT
+2024-04-15 23:16:33.972190,Maintenance,3528.25,Check,Finance
+2024-05-12 23:16:33.972190,Salaries,4173.18,Check,Marketing
+2024-07-07 23:16:33.972190,Rent,19752.76,Credit Card,Marketing
+2024-01-09 23:16:33.972190,Utilities,8698.29,Credit Card,Finance
+2024-05-22 23:16:33.972190,Utilities,6759.73,Credit Card,Operations
+2024-01-04 23:16:33.972190,Utilities,10831.21,Direct Debit,Finance
+2024-09-08 23:16:33.972190,Technology,4212.59,Check,Finance
+2024-07-31 23:16:33.972190,Utilities,3274.56,Direct Debit,IT
+2024-02-10 23:16:33.972190,Rent,6906.72,Credit Card,IT
+2024-08-07 23:16:33.972190,Maintenance,5326.76,Check,Finance
+2024-05-21 23:16:33.972190,Utilities,11449.91,Check,IT
+2024-07-06 23:16:33.972190,Technology,19608.29,Credit Card,HR
+2024-03-30 23:16:33.972190,Rent,9629.21,Credit Card,HR
+2024-01-02 23:16:33.972190,Salaries,2394.37,Check,Finance
+2023-12-07 23:16:33.972190,Maintenance,19805.63,Check,IT
+2024-07-23 23:16:33.972190,Technology,1985.32,Check,HR
+2024-06-13 23:16:33.972190,Rent,13221.3,Direct Debit,Finance
+2024-02-16 23:16:33.972190,Rent,10371.53,Check,Finance
+2023-10-10 23:16:33.972190,Rent,10216.5,Direct Debit,Marketing
+2024-04-08 23:16:33.972190,Technology,15771.65,Credit Card,Marketing
+2024-09-15 23:16:33.972190,Utilities,9279.69,Credit Card,Marketing
+2024-02-05 23:16:33.972190,Maintenance,14216.65,Credit Card,HR
+2024-05-05 23:16:33.972190,Technology,17501.46,Credit Card,Operations
+2024-01-17 23:16:33.972190,Maintenance,16469.39,Check,Marketing
+2024-01-05 23:16:33.972190,Maintenance,15952.77,Direct Debit,Operations
+2024-01-24 23:16:33.972190,Salaries,18888.27,Credit Card,IT
+2024-09-22 23:16:33.972190,Rent,13343.99,Credit Card,Operations
+2023-12-02 23:16:33.972190,Salaries,7309.35,Check,IT
+2023-10-30 23:16:33.972190,Salaries,11270.91,Credit Card,Finance
+2024-06-05 23:16:33.972190,Rent,18091.48,Check,Marketing
+2024-07-31 23:16:33.972190,Technology,18318.98,Credit Card,Finance
+2024-05-29 23:16:33.972190,Utilities,18811.32,Direct Debit,HR
+2023-10-30 23:16:33.972190,Rent,12370.74,Direct Debit,Finance
+2023-11-28 23:16:33.972190,Maintenance,12638.46,Direct Debit,IT
+2024-08-07 23:16:33.972190,Technology,12794.76,Direct Debit,HR
+2024-03-29 23:16:33.972190,Rent,13937.27,Check,Operations
+2024-08-08 23:16:33.972190,Rent,1057.88,Direct Debit,Finance
+2024-02-14 23:16:33.972190,Technology,12655.98,Credit Card,Operations
+2024-03-01 23:16:33.972190,Technology,19097.94,Credit Card,Operations
+2024-05-03 23:16:33.972190,Utilities,2852.78,Direct Debit,Marketing
+2023-10-16 23:16:33.972190,Technology,5389.52,Direct Debit,Marketing
+2023-12-26 23:16:33.972190,Utilities,3131.54,Direct Debit,Marketing
+2023-11-18 23:16:33.972190,Utilities,10993.64,Direct Debit,Operations
+2023-11-01 23:16:33.972190,Rent,1344.87,Credit Card,HR
+2024-08-31 23:16:33.972190,Utilities,15206.34,Direct Debit,Finance
+2024-02-12 23:16:33.972190,Salaries,11451.75,Direct Debit,HR
+2024-04-11 23:16:33.972190,Utilities,16515.57,Credit Card,Operations
+2024-07-01 23:16:33.972190,Rent,8572.14,Check,Marketing
+2023-11-04 23:16:33.972190,Technology,10339.8,Direct Debit,Operations
+2024-06-21 23:16:33.972190,Technology,2736.36,Direct Debit,Marketing
+2024-09-13 23:16:33.972190,Technology,1627.74,Direct Debit,Operations
+2024-02-04 23:16:33.972190,Rent,6922.61,Check,Operations
+2024-01-17 23:16:33.972190,Rent,13726.61,Check,Finance
+2024-09-05 23:16:33.972190,Salaries,5630.4,Direct Debit,Operations
+2024-08-28 23:16:33.972190,Technology,9160.34,Credit Card,Operations
+2024-07-06 23:16:33.972190,Utilities,4499.49,Credit Card,Finance
+2024-04-26 23:16:33.972190,Salaries,2728.6,Check,IT
+2023-12-29 23:16:33.972190,Utilities,10590.68,Check,Finance
+2023-10-13 23:16:33.972190,Technology,3740.05,Credit Card,Finance
+2023-10-27 23:16:33.972190,Utilities,14466.86,Direct Debit,HR
+2023-12-29 23:16:33.972190,Salaries,8393.42,Check,Operations
+2023-11-04 23:16:33.972190,Utilities,5474.63,Check,Operations
+2024-03-06 23:16:33.972190,Salaries,18332.21,Check,Finance
+2023-10-15 23:16:33.972190,Rent,10396.02,Direct Debit,Marketing
+2024-03-27 23:16:33.972190,Rent,12965.07,Check,IT
+2023-11-10 23:16:33.972190,Utilities,14910.94,Credit Card,HR
+2024-02-03 23:16:33.972190,Maintenance,10402.24,Check,Finance
+2024-08-08 23:16:33.972190,Utilities,19222.06,Credit Card,IT
+2023-10-21 23:16:33.972190,Salaries,14707.77,Check,IT
+2024-02-16 23:16:33.972190,Utilities,12920.89,Check,IT
+2024-04-14 23:16:33.972190,Salaries,8407.86,Direct Debit,Marketing
+2024-07-18 23:16:33.972190,Maintenance,13899.19,Direct Debit,Marketing
+2024-01-29 23:16:33.972190,Salaries,6410.33,Check,Finance
+2023-12-03 23:16:33.972190,Salaries,8377.17,Direct Debit,Marketing
+2024-07-31 23:16:33.972190,Technology,5255.63,Check,Finance
+2024-03-18 23:16:33.972190,Rent,15997.49,Credit Card,HR
+2024-01-01 23:16:33.972190,Utilities,4616.15,Credit Card,Finance
+2024-05-13 23:16:33.972190,Rent,19652.3,Credit Card,IT
+2024-09-24 23:16:33.972190,Technology,18289.16,Check,IT
+2024-07-13 23:16:33.972190,Salaries,16344.76,Check,Finance
+2024-05-31 23:16:33.972190,Maintenance,17156.08,Direct Debit,Finance
+2024-07-11 23:16:33.972190,Salaries,4546.08,Credit Card,Marketing
+2023-11-19 23:16:33.972190,Maintenance,5147.67,Credit Card,Marketing
+2024-06-17 23:16:33.972190,Maintenance,17594.52,Credit Card,HR
+2023-11-16 23:16:33.972190,Rent,14426.28,Credit Card,Operations
+2024-08-19 23:16:33.972190,Salaries,1580.61,Direct Debit,Operations
+2023-12-21 23:16:33.972190,Maintenance,4091.98,Credit Card,Finance
+2024-03-19 23:16:33.972190,Maintenance,2977.7,Check,HR
+2023-10-06 23:16:33.972190,Utilities,6962.08,Check,Marketing
+2024-05-01 23:16:33.972190,Rent,16133.23,Direct Debit,HR
+2024-05-07 23:16:33.972190,Salaries,15000.81,Direct Debit,Marketing
+2023-11-07 23:16:33.972190,Salaries,12688.28,Check,HR
+2023-12-03 23:16:33.972190,Rent,17895.11,Check,Finance
+2023-12-02 23:16:33.972190,Maintenance,19498.15,Direct Debit,Operations
+2024-02-12 23:16:33.972190,Rent,19282.11,Direct Debit,IT
+2024-05-26 23:16:33.972190,Technology,17271.84,Credit Card,IT
+2023-11-04 23:16:33.972190,Technology,17083.85,Check,IT
+2024-06-16 23:16:33.972190,Rent,17171.85,Check,Finance
+2024-03-11 23:16:33.972190,Technology,9983.29,Credit Card,Marketing
+2023-11-08 23:16:33.972190,Rent,19920.41,Check,Marketing
+2024-04-11 23:16:33.972190,Rent,4631.11,Direct Debit,Operations
+2024-08-15 23:16:33.972190,Rent,4869.25,Credit Card,Finance
+2024-08-14 23:16:33.972190,Technology,4247.86,Credit Card,Finance
+2024-02-18 23:16:33.972190,Technology,7104.3,Check,Marketing
+2023-11-10 23:16:33.972190,Salaries,11647.74,Credit Card,Finance
+2023-11-03 23:16:33.972190,Salaries,5605.0,Check,HR
+2024-03-22 23:16:33.972190,Technology,16970.76,Direct Debit,Marketing
+2024-04-28 23:16:33.972190,Rent,1936.17,Direct Debit,HR
+2023-12-07 23:16:33.972190,Rent,8143.93,Credit Card,Finance
+2024-06-16 23:16:33.972190,Salaries,6325.58,Credit Card,IT
+2024-03-06 23:16:33.972190,Salaries,3481.25,Check,Marketing
+2024-09-13 23:16:33.972190,Maintenance,14542.16,Credit Card,Operations
+2024-07-24 23:16:33.972190,Salaries,2370.78,Direct Debit,HR
+2024-04-08 23:16:33.972190,Rent,18842.42,Check,HR
+2024-08-26 23:16:33.972190,Maintenance,14254.23,Direct Debit,IT
+2024-05-01 23:16:33.972190,Maintenance,7832.67,Check,Marketing
+2024-01-18 23:16:33.972190,Utilities,14222.18,Direct Debit,Finance
+2023-10-13 23:16:33.972190,Utilities,8957.68,Credit Card,Operations
+2024-08-06 23:16:33.972190,Technology,14751.56,Credit Card,HR
+2023-11-02 23:16:33.972190,Technology,10973.82,Direct Debit,Finance
+2024-07-10 23:16:33.972190,Rent,18574.73,Check,IT
+2024-05-25 23:16:33.972190,Technology,9941.98,Check,Operations
+2023-11-28 23:16:33.972190,Salaries,3800.4,Direct Debit,HR
+2024-04-05 23:16:33.972190,Utilities,1414.38,Check,Operations
+2024-01-04 23:16:33.972190,Utilities,1811.16,Check,HR
+2024-08-30 23:16:33.972190,Technology,7156.72,Direct Debit,Operations
+2024-04-14 23:16:33.972190,Technology,9958.63,Direct Debit,HR
+2024-06-16 23:16:33.972190,Maintenance,6792.46,Direct Debit,HR
+2024-06-10 23:16:33.972190,Rent,17174.45,Direct Debit,Operations
+2024-06-14 23:16:33.972190,Utilities,14071.22,Direct Debit,Finance
+2024-07-17 23:16:33.972190,Maintenance,10685.46,Direct Debit,IT
+2024-01-25 23:16:33.972190,Technology,9521.55,Check,Operations
+2024-01-02 23:16:33.972190,Technology,19445.52,Credit Card,IT
+2024-09-08 23:16:33.972190,Rent,19930.71,Credit Card,IT
+2024-03-22 23:16:33.972190,Rent,9146.81,Credit Card,HR
+2024-08-03 23:16:33.972190,Utilities,7770.78,Check,Marketing
+2024-08-24 23:16:33.972190,Technology,6721.56,Direct Debit,HR
+2024-03-26 23:16:33.972190,Rent,19052.64,Direct Debit,HR
+2024-01-10 23:16:33.972190,Maintenance,19612.28,Credit Card,Finance
+2023-11-05 23:16:33.972190,Rent,17329.49,Direct Debit,IT
+2023-12-26 23:16:33.972190,Technology,13821.75,Direct Debit,Marketing
+2024-01-25 23:16:33.972190,Technology,16198.68,Direct Debit,Operations
+2024-09-15 23:16:33.972190,Utilities,18319.06,Credit Card,Marketing
+2024-04-10 23:16:33.972190,Technology,18230.34,Check,Finance
+2024-01-14 23:16:33.972190,Salaries,11511.52,Direct Debit,Operations
+2024-07-11 23:16:33.972190,Rent,16120.87,Check,Operations
+2024-01-31 23:16:33.972190,Rent,17938.77,Check,Operations
+2024-04-20 23:16:33.972190,Rent,3207.9,Direct Debit,Finance
+2023-12-19 23:16:33.972190,Salaries,10021.4,Credit Card,HR
+2024-05-07 23:16:33.972190,Salaries,17522.65,Direct Debit,IT
+2024-05-07 23:16:33.972190,Salaries,2500.98,Credit Card,Finance
+2023-11-30 23:16:33.972190,Maintenance,3067.64,Credit Card,Marketing
+2024-05-04 23:16:33.972190,Maintenance,2748.73,Check,IT
+2024-06-10 23:16:33.972190,Utilities,2121.97,Direct Debit,Marketing
+2023-12-15 23:16:33.972190,Salaries,9659.68,Direct Debit,HR
+2024-01-12 23:16:33.972190,Maintenance,16270.86,Credit Card,HR
+2024-05-24 23:16:33.972190,Rent,18568.95,Credit Card,HR
+2024-02-09 23:16:33.972190,Maintenance,10540.58,Credit Card,HR
+2024-03-28 23:16:33.972190,Maintenance,12256.74,Check,IT
+2024-06-14 23:16:33.972190,Utilities,18641.06,Credit Card,HR
+2024-03-27 23:16:33.972190,Salaries,4790.89,Check,Operations
+2024-06-03 23:16:33.972190,Salaries,10314.67,Direct Debit,Finance
+2024-05-07 23:16:33.972190,Rent,7896.63,Direct Debit,Operations
+2023-11-12 23:16:33.972190,Utilities,18305.32,Direct Debit,Marketing
+2024-01-12 23:16:33.972190,Salaries,16524.91,Credit Card,HR
+2023-12-01 23:16:33.972190,Maintenance,6915.48,Check,Operations
+2024-07-08 23:16:33.972190,Salaries,18342.0,Credit Card,Finance
+2024-01-14 23:16:33.972190,Maintenance,10964.09,Check,Marketing
+2023-12-17 23:16:33.972190,Technology,13990.76,Direct Debit,IT
+2024-01-08 23:16:33.972190,Maintenance,4670.55,Direct Debit,Finance
+2023-10-07 23:16:33.972190,Salaries,8582.12,Credit Card,HR
+2024-05-25 23:16:33.972190,Maintenance,6125.05,Check,Finance
+2024-01-14 23:16:33.972190,Salaries,2152.2,Credit Card,IT
+2024-02-27 23:16:33.972190,Technology,12001.18,Direct Debit,Finance
+2023-12-11 23:16:33.972190,Maintenance,5668.87,Direct Debit,Operations
+2024-05-25 23:16:33.972190,Technology,1169.62,Check,HR
+2024-08-20 23:16:33.972190,Technology,4619.54,Direct Debit,HR
+2024-08-05 23:16:33.972190,Maintenance,16734.51,Direct Debit,Finance
+2023-11-01 23:16:33.972190,Salaries,14302.93,Credit Card,IT
+2024-01-31 23:16:33.972190,Maintenance,3781.16,Check,Operations
+2023-11-02 23:16:33.972190,Maintenance,2839.79,Direct Debit,HR
+2023-11-20 23:16:33.972190,Technology,1750.3,Credit Card,Marketing
+2024-02-26 23:16:33.972190,Maintenance,4574.89,Credit Card,Finance
+2023-11-24 23:16:33.972190,Technology,11179.27,Direct Debit,Marketing
+2024-08-25 23:16:33.972190,Maintenance,9101.22,Direct Debit,HR
+2024-03-30 23:16:33.972190,Maintenance,12287.36,Direct Debit,HR
+2023-10-20 23:16:33.972190,Maintenance,1546.87,Check,Finance
+2024-01-02 23:16:33.972190,Utilities,9889.43,Check,Operations
+2024-01-07 23:16:33.972190,Salaries,14037.58,Credit Card,Finance
+2024-06-24 23:16:33.972190,Maintenance,18756.12,Check,Finance
+2024-04-11 23:16:33.972190,Rent,6027.35,Credit Card,HR
+2024-07-31 23:16:33.972190,Maintenance,12241.96,Check,Marketing
+2024-06-11 23:16:33.972190,Technology,14107.05,Direct Debit,HR
+2023-10-11 23:16:33.972190,Rent,6379.26,Direct Debit,Finance
+2023-10-28 23:16:33.972190,Technology,7032.07,Direct Debit,HR
+2023-12-20 23:16:33.972190,Maintenance,3571.31,Direct Debit,Finance
+2024-02-09 23:16:33.972190,Technology,12345.97,Credit Card,Finance
+2024-08-12 23:16:33.972190,Utilities,19295.51,Credit Card,IT
+2024-07-17 23:16:33.972190,Maintenance,12351.18,Check,IT
+2024-07-04 23:16:33.972190,Salaries,1156.64,Direct Debit,IT
+2024-05-20 23:16:33.972190,Utilities,11620.4,Credit Card,Marketing
+2023-10-12 23:16:33.972190,Utilities,2140.35,Check,Finance
+2024-05-15 23:16:33.972190,Salaries,17292.64,Credit Card,Finance
+2024-07-09 23:16:33.972190,Rent,13688.72,Check,Finance
+2023-11-18 23:16:33.972190,Utilities,8440.13,Direct Debit,Marketing
+2023-10-15 23:16:33.972190,Rent,10291.66,Check,Operations
+2024-02-07 23:16:33.972190,Maintenance,9102.15,Credit Card,Finance
+2023-10-28 23:16:33.972190,Maintenance,2083.03,Direct Debit,Finance
+2023-10-31 23:16:33.972190,Technology,4674.56,Direct Debit,Operations
+2024-06-08 23:16:33.972190,Maintenance,17664.74,Check,HR
+2024-04-30 23:16:33.972190,Rent,18650.12,Credit Card,Operations
+2024-06-27 23:16:33.972190,Maintenance,10430.78,Check,HR
+2024-08-09 23:16:33.972190,Salaries,16020.83,Credit Card,Marketing
+2024-07-03 23:16:33.972190,Rent,16775.1,Credit Card,Operations
+2024-08-07 23:16:33.972190,Technology,4204.19,Check,Operations
+2024-07-23 23:16:33.972190,Rent,5347.32,Credit Card,IT
+2023-12-27 23:16:33.972190,Utilities,19579.61,Check,Finance
+2023-11-17 23:16:33.972190,Salaries,18739.72,Check,HR
+2023-11-18 23:16:33.972190,Maintenance,1377.04,Direct Debit,Operations
+2024-04-14 23:16:33.972190,Rent,19378.68,Credit Card,Marketing
+2024-05-25 23:16:33.972190,Salaries,9081.87,Credit Card,HR
+2024-02-02 23:16:33.972190,Technology,19587.0,Credit Card,Finance
+2023-11-28 23:16:33.972190,Technology,1077.47,Check,Finance
+2024-09-30 23:16:33.972190,Technology,18249.25,Credit Card,Operations
+2024-09-30 23:16:33.972190,Rent,4353.6,Direct Debit,Operations
+2024-01-21 23:16:33.972190,Technology,6993.81,Direct Debit,IT
+2023-11-14 23:16:33.972190,Rent,10652.77,Credit Card,Marketing
+2024-03-28 23:16:33.972190,Maintenance,13114.07,Check,HR
+2024-08-18 23:16:33.972190,Maintenance,3799.84,Check,Marketing
+2024-08-17 23:16:33.972190,Utilities,7457.62,Direct Debit,Operations
+2024-07-07 23:16:33.972190,Salaries,10238.94,Check,IT
+2024-08-11 23:16:33.972190,Utilities,4975.16,Direct Debit,Marketing
+2024-04-03 23:16:33.972190,Utilities,1752.01,Credit Card,HR
+2024-01-25 23:16:33.972190,Maintenance,4461.52,Direct Debit,Finance
+2024-01-04 23:16:33.972190,Technology,4300.18,Check,Marketing
+2024-03-27 23:16:33.972190,Utilities,13208.29,Direct Debit,Finance
+2024-09-12 23:16:33.972190,Technology,15813.03,Direct Debit,Finance
+2023-10-15 23:16:33.972190,Utilities,18181.05,Check,HR
+2024-03-16 23:16:33.972190,Maintenance,15837.75,Credit Card,Operations
+2024-06-22 23:16:33.972190,Maintenance,15698.86,Credit Card,IT
+2024-03-05 23:16:33.972190,Maintenance,16076.11,Direct Debit,HR
+2024-06-25 23:16:33.972190,Rent,13142.94,Credit Card,HR
+2023-10-19 23:16:33.972190,Technology,8320.49,Credit Card,HR
+2024-03-12 23:16:33.972190,Utilities,14921.84,Check,Operations
+2024-01-05 23:16:33.972190,Salaries,8912.45,Credit Card,Marketing
+2024-03-12 23:16:33.972190,Maintenance,10073.44,Check,IT
+2023-10-20 23:16:33.972190,Technology,1384.39,Direct Debit,Marketing
+2024-05-02 23:16:33.972190,Maintenance,12753.62,Direct Debit,HR
+2023-10-06 23:16:33.972190,Salaries,14593.81,Direct Debit,Finance
+2024-02-24 23:16:33.972190,Utilities,5982.37,Check,Marketing
+2023-11-18 23:16:33.972190,Maintenance,6429.51,Direct Debit,Finance
+2024-04-29 23:16:33.972190,Maintenance,4776.46,Direct Debit,Marketing
+2024-07-03 23:16:33.972190,Rent,10122.97,Direct Debit,IT
+2024-04-05 23:16:33.972190,Technology,16615.68,Direct Debit,Finance
+2024-08-31 23:16:33.972190,Rent,7105.71,Check,IT
+2024-04-14 23:16:33.972190,Salaries,6422.97,Check,IT
+2023-12-20 23:16:33.972190,Utilities,12470.54,Credit Card,HR
+2023-10-09 23:16:33.972190,Rent,1909.2,Credit Card,Finance
+2024-05-29 23:16:33.972190,Maintenance,6445.75,Check,IT
+2024-09-22 23:16:33.972190,Utilities,1251.56,Credit Card,IT
+2024-04-17 23:16:33.972190,Rent,15727.79,Check,HR
+2024-08-18 23:16:33.972190,Rent,15164.45,Direct Debit,Operations
+2024-08-19 23:16:33.972190,Technology,18971.84,Direct Debit,Marketing
+2023-12-07 23:16:33.972190,Maintenance,17763.19,Direct Debit,Marketing
+2024-09-16 23:16:33.972190,Utilities,6020.53,Direct Debit,Operations
+2023-11-08 23:16:33.972190,Salaries,4253.21,Direct Debit,Operations
+2024-06-25 23:16:33.972190,Salaries,14378.88,Direct Debit,Finance
+2024-08-19 23:16:33.972190,Utilities,16733.87,Check,HR
+2024-03-04 23:16:33.972190,Rent,8010.63,Credit Card,Operations
+2023-12-11 23:16:33.972190,Maintenance,13922.79,Credit Card,Operations
+2024-07-20 23:16:33.972190,Utilities,15489.08,Check,Operations
+2024-04-29 23:16:33.972190,Technology,3435.95,Check,Operations
+2024-02-15 23:16:33.972190,Salaries,1864.96,Credit Card,Operations
+2024-08-23 23:16:33.972190,Maintenance,18300.05,Direct Debit,Operations
+2024-02-11 23:16:33.972190,Maintenance,10037.13,Check,Finance
+2023-12-19 23:16:33.972190,Salaries,19358.89,Direct Debit,Finance
+2024-02-20 23:16:33.972190,Rent,4007.66,Credit Card,HR
+2024-07-30 23:16:33.972190,Utilities,11921.78,Direct Debit,Operations
+2024-01-10 23:16:33.972190,Maintenance,3284.05,Credit Card,Operations
+2024-07-27 23:16:33.972190,Rent,4840.88,Credit Card,Marketing
+2024-06-24 23:16:33.972190,Salaries,10496.49,Credit Card,Operations
+2024-02-19 23:16:33.972190,Maintenance,5469.67,Check,Finance
+2024-03-17 23:16:33.972190,Utilities,10050.95,Direct Debit,Marketing
+2024-10-02 23:16:33.972190,Rent,2749.27,Credit Card,IT
+2024-06-14 23:16:33.972190,Technology,10355.01,Direct Debit,Marketing
+2024-02-16 23:16:33.972190,Rent,4505.61,Direct Debit,Operations
+2024-05-09 23:16:33.972190,Technology,4596.39,Credit Card,Operations
+2023-10-08 23:16:33.973485,Salaries,13319.17,Direct Debit,HR
+2024-04-03 23:16:33.973485,Salaries,13167.18,Direct Debit,HR
+2024-02-12 23:16:33.973485,Rent,10216.21,Check,Marketing
+2023-10-18 23:16:33.973485,Salaries,15605.89,Check,HR
+2024-06-30 23:16:33.973485,Technology,18364.42,Check,Operations
+2024-06-30 23:16:33.973485,Technology,16939.53,Credit Card,Finance
+2024-04-20 23:16:33.973485,Maintenance,16290.94,Direct Debit,Operations
+2024-08-23 23:16:33.973485,Rent,17395.67,Credit Card,Operations
+2024-03-20 23:16:33.973485,Salaries,8756.09,Direct Debit,Finance
+2023-10-22 23:16:33.973485,Rent,9945.57,Credit Card,IT
+2024-02-23 23:16:33.973485,Technology,3118.09,Credit Card,HR
+2024-06-18 23:16:33.973485,Rent,10519.85,Credit Card,Operations
+2024-07-20 23:16:33.973485,Technology,8322.81,Credit Card,Marketing
+2024-08-13 23:16:33.973485,Rent,3649.43,Credit Card,HR
+2024-03-15 23:16:33.973485,Technology,1654.6,Credit Card,IT
+2024-06-18 23:16:33.973485,Salaries,17832.03,Check,IT
+2023-12-26 23:16:33.973485,Rent,15508.21,Credit Card,Finance
+2024-01-18 23:16:33.973485,Technology,11550.99,Credit Card,Finance
+2024-08-31 23:16:33.973485,Technology,4677.44,Credit Card,Operations
+2023-10-27 23:16:33.973485,Utilities,15711.47,Credit Card,Finance
+2024-03-22 23:16:33.973485,Maintenance,7127.72,Credit Card,Finance
+2024-01-14 23:16:33.973485,Rent,7087.3,Credit Card,Marketing
+2023-11-14 23:16:33.973485,Utilities,4711.76,Credit Card,Finance
+2023-10-29 23:16:33.973485,Maintenance,17418.79,Credit Card,Marketing
+2024-09-20 23:16:33.973485,Salaries,18779.52,Check,Marketing
+2024-09-15 23:16:33.973485,Maintenance,10902.77,Direct Debit,Finance
+2024-04-11 23:16:33.973485,Technology,2749.41,Check,Operations
+2024-01-03 23:16:33.973485,Rent,11653.39,Check,Operations
+2024-05-28 23:16:33.973485,Utilities,3629.21,Direct Debit,Operations
+2024-01-15 23:16:33.973485,Maintenance,10982.03,Direct Debit,HR
+2023-11-15 23:16:33.973641,Rent,2881.67,Direct Debit,IT
+2024-01-19 23:16:33.973641,Salaries,2684.71,Direct Debit,HR
+2024-06-29 23:16:33.973641,Maintenance,7134.5,Credit Card,Operations
+2023-12-18 23:16:33.973641,Salaries,14046.98,Credit Card,HR
+2024-08-25 23:16:33.973641,Rent,3112.55,Check,Finance
+2024-04-17 23:16:33.973641,Utilities,14867.73,Direct Debit,Operations
+2023-12-21 23:16:33.973641,Maintenance,19539.89,Credit Card,HR
+2024-06-14 23:16:33.973641,Utilities,6465.01,Credit Card,HR
+2024-01-05 23:16:33.973641,Utilities,5445.49,Check,Marketing
+2024-05-11 23:16:33.973641,Utilities,1535.51,Check,Marketing
+2024-07-12 23:16:33.973641,Rent,17293.84,Check,IT
+2024-09-18 23:16:33.973641,Rent,7421.93,Direct Debit,IT
+2024-07-31 23:16:33.973641,Utilities,8639.65,Check,Marketing
+2023-10-07 23:16:33.973641,Maintenance,8174.97,Check,IT
+2024-07-24 23:16:33.973641,Maintenance,3295.06,Direct Debit,IT
+2023-11-03 23:16:33.973641,Utilities,3945.61,Direct Debit,IT
+2023-11-02 23:16:33.973641,Rent,8464.31,Check,IT
+2023-10-28 23:16:33.973641,Technology,16698.89,Direct Debit,HR
+2023-10-14 23:16:33.973641,Maintenance,8128.11,Check,Finance
+2024-07-29 23:16:33.973641,Maintenance,9097.8,Check,HR
+2024-01-31 23:16:33.973641,Maintenance,2844.18,Credit Card,Operations
+2024-08-19 23:16:33.973641,Maintenance,18509.9,Check,Marketing
+2024-08-16 23:16:33.973641,Maintenance,13804.29,Check,HR
+2023-12-04 23:16:33.973641,Rent,15203.47,Check,Finance
+2023-11-10 23:16:33.973641,Utilities,11589.58,Direct Debit,HR
+2024-09-12 23:16:33.973641,Salaries,19968.33,Credit Card,IT
+2024-04-03 23:16:33.973641,Maintenance,17493.71,Credit Card,Marketing
+2024-04-06 23:16:33.973641,Rent,16870.59,Check,IT
+2024-01-28 23:16:33.973641,Maintenance,8759.63,Credit Card,Operations
+2024-09-15 23:16:33.973641,Salaries,2188.77,Check,IT
+2023-12-23 23:16:33.973641,Maintenance,6457.0,Credit Card,Finance
+2024-04-14 23:16:33.973641,Utilities,5717.84,Direct Debit,Operations
+2024-08-02 23:16:33.973641,Rent,16045.25,Direct Debit,Operations
+2024-09-19 23:16:33.973641,Maintenance,1953.51,Check,IT
+2024-06-02 23:16:33.973641,Salaries,3435.52,Credit Card,Operations
+2024-09-18 23:16:33.973641,Rent,12915.55,Direct Debit,Operations
+2023-12-12 23:16:33.973641,Salaries,2030.37,Credit Card,Finance
+2024-04-16 23:16:33.973641,Technology,7092.39,Direct Debit,Finance
+2024-07-22 23:16:33.973641,Salaries,14463.84,Check,Marketing
+2023-12-06 23:16:33.973641,Rent,3689.05,Direct Debit,IT
+2024-04-19 23:16:33.973641,Technology,12293.1,Direct Debit,Marketing
+2024-07-18 23:16:33.973641,Technology,12981.43,Credit Card,HR
+2024-03-29 23:16:33.973641,Salaries,19849.5,Credit Card,Operations
+2024-05-27 23:16:33.973641,Salaries,2700.38,Credit Card,HR
+2024-02-13 23:16:33.973641,Salaries,14681.2,Direct Debit,Finance
+2024-08-04 23:16:33.973641,Maintenance,15771.66,Credit Card,Operations
+2024-08-06 23:16:33.973641,Maintenance,9447.97,Direct Debit,IT
+2024-01-26 23:16:33.973641,Utilities,6307.31,Credit Card,Finance
+2024-06-05 23:16:33.973641,Rent,9929.65,Credit Card,Operations
+2024-07-22 23:16:33.973641,Utilities,16972.31,Credit Card,IT
+2024-09-10 23:16:33.973641,Maintenance,12200.58,Credit Card,Marketing
+2023-12-19 23:16:33.973641,Utilities,14702.79,Credit Card,IT
+2024-08-16 23:16:33.973641,Rent,12429.5,Direct Debit,IT
+2024-01-18 23:16:33.973641,Salaries,17102.54,Check,Operations
+2024-08-13 23:16:33.973641,Utilities,3804.23,Check,HR
+2024-09-08 23:16:33.973641,Rent,8230.14,Credit Card,Marketing
+2024-01-09 23:16:33.973641,Utilities,14648.53,Credit Card,IT
+2024-03-23 23:16:33.973641,Salaries,10044.08,Check,Marketing
+2024-01-21 23:16:33.973641,Utilities,17282.72,Direct Debit,Finance
+2024-04-25 23:16:33.973641,Rent,18579.73,Check,Operations
+2024-09-11 23:16:33.973641,Utilities,12995.82,Direct Debit,Marketing
+2024-01-10 23:16:33.973641,Rent,15915.57,Direct Debit,IT
+2024-01-05 23:16:33.973641,Technology,11037.23,Direct Debit,Marketing
+2024-08-05 23:16:33.973641,Salaries,12181.75,Credit Card,Finance
+2024-06-01 23:16:33.973641,Maintenance,6845.09,Credit Card,Operations
+2024-09-13 23:16:33.973641,Utilities,17265.01,Check,Marketing
+2024-05-28 23:16:33.973641,Technology,12608.64,Direct Debit,Finance
+2024-04-05 23:16:33.973641,Utilities,4209.41,Credit Card,Marketing
+2024-07-05 23:16:33.973641,Utilities,6758.2,Credit Card,Operations
+2023-10-24 23:16:33.973641,Technology,17497.74,Direct Debit,IT
+2024-04-28 23:16:33.973641,Maintenance,3874.15,Credit Card,IT
+2024-06-04 23:16:33.973641,Salaries,17590.61,Check,HR
+2023-11-03 23:16:33.973641,Technology,5572.94,Check,Operations
+2024-05-27 23:16:33.973641,Rent,6240.83,Direct Debit,IT
+2024-01-09 23:16:33.973641,Maintenance,6279.56,Credit Card,Finance
+2023-11-25 23:16:33.973641,Maintenance,12345.75,Check,IT
+2024-08-23 23:16:33.973641,Rent,1807.73,Direct Debit,HR
+2023-11-27 23:16:33.973641,Rent,11023.67,Check,Operations
+2024-05-04 23:16:33.973641,Technology,17357.94,Direct Debit,Finance
+2024-02-28 23:16:33.973641,Utilities,7557.57,Check,IT
+2024-07-05 23:16:33.973641,Rent,2179.59,Credit Card,Marketing
+2024-01-02 23:16:33.973641,Rent,4983.79,Check,HR
+2024-02-15 23:16:33.973641,Salaries,1643.54,Direct Debit,IT
+2024-04-17 23:16:33.973641,Maintenance,19549.31,Check,Marketing
+2024-01-12 23:16:33.973641,Maintenance,7320.48,Check,HR
+2024-08-26 23:16:33.973641,Salaries,10771.19,Check,Finance
+2024-09-24 23:16:33.973641,Utilities,15936.93,Direct Debit,Finance
+2024-06-04 23:16:33.973641,Salaries,5967.87,Direct Debit,Operations
+2024-06-06 23:16:33.973641,Rent,4350.33,Credit Card,Marketing
+2024-07-18 23:16:33.973641,Rent,3776.08,Direct Debit,IT
+2024-06-28 23:16:33.973641,Technology,9286.22,Credit Card,Operations
+2024-01-22 23:16:33.973641,Maintenance,19550.69,Check,Operations
+2024-02-23 23:16:33.973641,Utilities,2637.83,Check,HR
+2023-11-08 23:16:33.973641,Rent,2553.0,Check,HR
+2024-07-30 23:16:33.973641,Salaries,18966.39,Check,Operations
+2023-11-05 23:16:33.973641,Technology,8405.53,Direct Debit,HR
+2024-05-01 23:16:33.973641,Rent,7814.09,Check,IT
+2023-10-11 23:16:33.973641,Technology,16192.17,Credit Card,Finance
+2024-05-27 23:16:33.973641,Salaries,17766.43,Credit Card,HR
+2024-05-15 23:16:33.973641,Technology,8735.34,Direct Debit,Operations
+2024-09-26 23:16:33.973641,Salaries,9217.72,Direct Debit,IT
+2024-04-03 23:16:33.973641,Maintenance,14345.12,Check,IT
+2024-03-21 23:16:33.973641,Salaries,7372.72,Direct Debit,Operations
+2024-05-28 23:16:33.973641,Maintenance,11239.52,Direct Debit,HR
+2024-02-11 23:16:33.973641,Utilities,4246.97,Check,Operations
+2023-11-08 23:16:33.973641,Maintenance,15032.92,Credit Card,HR
+2023-12-02 23:16:33.973641,Salaries,15291.41,Check,Finance
+2024-01-26 23:16:33.973641,Maintenance,2407.81,Check,Marketing
+2024-10-03 23:16:33.973641,Rent,8262.62,Check,Operations
+2024-08-08 23:16:33.973641,Technology,9107.42,Check,Marketing
+2024-02-26 23:16:33.973641,Utilities,4633.31,Direct Debit,IT
+2024-04-14 23:16:33.973641,Utilities,6129.75,Direct Debit,Marketing
+2023-12-16 23:16:33.973641,Rent,3607.19,Check,IT
+2024-09-14 23:16:33.973641,Salaries,11320.39,Credit Card,Finance
+2023-12-22 23:16:33.973641,Rent,7739.44,Check,HR
+2024-05-05 23:16:33.973641,Technology,7978.44,Credit Card,HR
+2024-04-12 23:16:33.973641,Maintenance,18320.5,Direct Debit,IT
+2024-06-20 23:16:33.973641,Technology,11858.91,Credit Card,Finance
+2024-08-06 23:16:33.973641,Rent,17139.99,Credit Card,Operations
+2024-03-15 23:16:33.973641,Maintenance,9458.84,Check,IT
+2024-03-08 23:16:33.973641,Salaries,4672.78,Direct Debit,Finance
+2024-07-24 23:16:33.973641,Utilities,17552.69,Credit Card,Operations
+2024-05-20 23:16:33.973641,Salaries,17451.94,Credit Card,HR
+2024-02-03 23:16:33.973641,Maintenance,2291.09,Credit Card,HR
+2024-02-12 23:16:33.973641,Rent,8282.49,Check,Operations
+2023-11-06 23:16:33.973641,Technology,14834.1,Check,IT
+2024-09-18 23:16:33.973641,Technology,11963.87,Credit Card,HR
+2024-08-04 23:16:33.973641,Rent,15746.85,Check,IT
+2024-09-19 23:16:33.973641,Maintenance,15591.93,Check,Finance
+2023-10-28 23:16:33.973641,Utilities,9424.78,Check,Marketing
+2024-09-25 23:16:33.973641,Maintenance,2854.62,Credit Card,HR
+2024-01-17 23:16:33.973641,Maintenance,1902.67,Check,Finance
+2024-01-13 23:16:33.973641,Utilities,8197.41,Direct Debit,Marketing
+2024-02-07 23:16:33.973641,Technology,18768.09,Credit Card,Marketing
+2024-06-19 23:16:33.973641,Technology,19191.9,Direct Debit,HR
+2024-07-24 23:16:33.973641,Rent,15491.44,Check,IT
+2024-08-12 23:16:33.973641,Rent,3874.6,Check,IT
+2024-07-21 23:16:33.973641,Rent,11354.92,Check,Marketing
+2023-11-20 23:16:33.973641,Rent,7265.18,Direct Debit,IT
+2024-01-19 23:16:33.973641,Rent,2913.66,Credit Card,Finance
+2024-08-11 23:16:33.973641,Utilities,7492.87,Direct Debit,HR
+2024-09-15 23:16:33.973641,Salaries,10975.59,Check,Finance
+2023-10-29 23:16:33.973641,Maintenance,2245.36,Check,Marketing
+2024-02-15 23:16:33.973641,Rent,18042.48,Check,HR
+2024-09-13 23:16:33.973641,Salaries,4306.53,Credit Card,IT
+2024-05-05 23:16:33.973641,Technology,6444.4,Check,Finance
+2024-06-02 23:16:33.973641,Maintenance,5965.5,Direct Debit,Finance
+2024-06-09 23:16:33.973641,Salaries,19517.92,Credit Card,Operations
+2024-03-29 23:16:33.973641,Rent,4689.95,Check,Operations
+2023-10-24 23:16:33.973641,Rent,6260.5,Check,Operations
+2024-03-23 23:16:33.973641,Rent,14196.65,Credit Card,Marketing
+2024-04-14 23:16:33.973641,Utilities,9022.07,Credit Card,HR
+2023-12-17 23:16:33.973641,Maintenance,19004.17,Check,Marketing
+2024-04-08 23:16:33.973641,Rent,19091.63,Credit Card,Marketing
+2024-04-11 23:16:33.973641,Maintenance,12538.32,Credit Card,Operations
+2024-03-15 23:16:33.973641,Salaries,12289.11,Check,Finance
+2023-10-05 23:16:33.973641,Technology,2316.06,Credit Card,Operations
+2024-04-29 23:16:33.973641,Maintenance,9167.12,Direct Debit,Finance
+2024-09-05 23:16:33.973641,Rent,2345.71,Credit Card,Marketing
+2024-02-17 23:16:33.973641,Technology,1370.56,Direct Debit,Marketing
+2024-07-26 23:16:33.973641,Technology,14102.53,Credit Card,Operations
+2024-05-11 23:16:33.973641,Technology,13992.87,Credit Card,IT
+2024-05-16 23:16:33.973641,Technology,4875.53,Check,Operations
+2023-10-13 23:16:33.973641,Rent,10124.46,Direct Debit,IT
+2023-10-18 23:16:33.973641,Rent,11424.54,Direct Debit,HR
+2024-04-14 23:16:33.973641,Technology,12707.07,Credit Card,Finance
+2024-02-19 23:16:33.973641,Technology,1194.82,Direct Debit,Operations
+2024-05-19 23:16:33.973641,Maintenance,7734.55,Credit Card,Operations
+2023-10-29 23:16:33.973641,Rent,16962.3,Check,Marketing
+2023-12-31 23:16:33.973641,Salaries,15205.52,Credit Card,Operations
+2024-09-06 23:16:33.973641,Technology,15056.19,Direct Debit,Operations
+2024-03-10 23:16:33.973641,Utilities,17057.78,Check,HR
+2024-07-29 23:16:33.973641,Rent,6883.88,Direct Debit,Marketing
+2023-12-13 23:16:33.973641,Utilities,5350.59,Direct Debit,HR
+2024-04-25 23:16:33.973641,Rent,16810.27,Credit Card,IT
+2023-10-22 23:16:33.973641,Utilities,5919.3,Direct Debit,HR
+2024-05-11 23:16:33.973641,Technology,16838.14,Check,Finance
+2024-04-15 23:16:33.973641,Utilities,13624.05,Credit Card,IT
+2024-04-15 23:16:33.973641,Maintenance,2980.18,Credit Card,Marketing
+2024-06-06 23:16:33.973641,Utilities,13245.09,Direct Debit,HR
+2024-01-16 23:16:33.973641,Technology,1336.87,Check,IT
+2024-04-20 23:16:33.973641,Salaries,14501.08,Check,Marketing
+2024-09-22 23:16:33.973641,Salaries,16498.57,Credit Card,Operations
+2024-09-24 23:16:33.973641,Maintenance,13855.78,Direct Debit,Operations
+2024-09-05 23:16:33.973641,Maintenance,11550.55,Credit Card,Finance
+2023-11-27 23:16:33.973641,Salaries,5574.61,Check,Finance
+2024-01-09 23:16:33.973641,Maintenance,3006.07,Direct Debit,Marketing
+2024-06-06 23:16:33.973641,Salaries,8404.13,Check,Operations
+2024-06-19 23:16:33.973641,Utilities,7450.66,Credit Card,Operations
+2024-08-16 23:16:33.973641,Maintenance,7527.06,Direct Debit,HR
+2024-06-21 23:16:33.973641,Maintenance,5126.16,Check,Operations
+2024-08-15 23:16:33.973641,Rent,1452.37,Credit Card,HR
+2024-06-24 23:16:33.973641,Technology,9770.98,Credit Card,Marketing
+2023-10-13 23:16:33.973641,Salaries,1570.1,Direct Debit,Marketing
+2024-08-30 23:16:33.973641,Rent,1062.25,Direct Debit,HR
+2024-05-31 23:16:33.973641,Technology,11116.28,Check,Operations
+2023-12-25 23:16:33.973641,Utilities,19761.63,Check,Operations
+2024-02-14 23:16:33.973641,Salaries,18361.61,Credit Card,Marketing
+2024-02-11 23:16:33.973641,Utilities,14079.78,Check,Finance
+2024-06-21 23:16:33.973641,Rent,9559.93,Check,Marketing
+2024-06-21 23:16:33.973641,Rent,17868.02,Direct Debit,HR
+2023-11-05 23:16:33.973641,Rent,10661.84,Credit Card,IT
+2023-10-07 23:16:33.973641,Rent,13712.49,Check,HR
+2024-08-30 23:16:33.973641,Rent,9098.41,Credit Card,Finance
+2024-03-16 23:16:33.973641,Salaries,16429.97,Credit Card,HR
+2024-06-17 23:16:33.973641,Technology,13482.07,Check,IT
+2023-12-19 23:16:33.973641,Salaries,7195.75,Direct Debit,Operations
+2024-01-24 23:16:33.973641,Maintenance,4228.38,Credit Card,Operations
+2024-09-19 23:16:33.973641,Rent,6442.8,Credit Card,Marketing
+2023-12-10 23:16:33.973641,Salaries,12370.71,Credit Card,IT
+2024-06-26 23:16:33.973641,Utilities,1274.8,Credit Card,HR
+2024-05-02 23:16:33.973641,Utilities,17055.38,Direct Debit,Finance
+2023-11-15 23:16:33.973641,Maintenance,14668.84,Check,Operations
+2024-02-04 23:16:33.973641,Utilities,3901.59,Credit Card,Operations
+2024-03-01 23:16:33.973641,Salaries,17035.38,Credit Card,IT
+2024-05-12 23:16:33.973641,Salaries,4127.98,Credit Card,Marketing
+2024-04-19 23:16:33.973641,Rent,16104.38,Credit Card,IT
+2023-11-15 23:16:33.973641,Technology,14965.38,Direct Debit,Marketing
+2024-09-05 23:16:33.973641,Maintenance,8389.78,Direct Debit,Finance
+2024-05-11 23:16:33.973641,Maintenance,18177.46,Check,HR
+2024-09-09 23:16:33.973641,Utilities,7389.1,Check,Operations
+2024-08-17 23:16:33.973641,Salaries,1656.74,Direct Debit,Marketing
+2024-02-09 23:16:33.973641,Rent,14777.47,Credit Card,Marketing
+2024-05-12 23:16:33.973641,Maintenance,8393.73,Credit Card,Operations
+2024-05-08 23:16:33.973641,Rent,9047.01,Check,Marketing
+2024-05-30 23:16:33.973641,Maintenance,4078.98,Credit Card,Operations
+2023-10-19 23:16:33.973641,Utilities,12219.9,Direct Debit,IT
+2024-09-20 23:16:33.973641,Technology,5596.84,Direct Debit,Operations
+2024-06-24 23:16:33.973641,Technology,18085.13,Credit Card,Finance
+2023-10-29 23:16:33.973641,Rent,8776.89,Direct Debit,Operations
+2024-05-09 23:16:33.973641,Technology,16595.78,Check,HR
+2024-06-21 23:16:33.973641,Utilities,13739.3,Direct Debit,Operations
+2024-02-28 23:16:33.973641,Salaries,6881.66,Credit Card,IT
+2024-09-14 23:16:33.973641,Salaries,10077.0,Direct Debit,Marketing
+2024-04-08 23:16:33.973641,Salaries,3196.42,Check,IT
+2024-03-31 23:16:33.973641,Technology,14768.07,Credit Card,HR
+2024-02-06 23:16:33.973641,Maintenance,18354.85,Direct Debit,Operations
+2023-12-06 23:16:33.973641,Rent,11342.39,Check,Marketing
+2024-05-01 23:16:33.973641,Utilities,11064.6,Credit Card,Finance
+2024-04-19 23:16:33.973641,Maintenance,19726.43,Check,Operations
+2024-08-15 23:16:33.973641,Maintenance,2429.27,Credit Card,IT
+2023-12-07 23:16:33.973641,Technology,3250.55,Check,HR
+2024-09-27 23:16:33.973641,Technology,10910.29,Direct Debit,IT
+2024-01-07 23:16:33.973641,Salaries,4050.01,Credit Card,IT
+2023-12-14 23:16:33.973641,Rent,17873.91,Check,Operations
+2024-09-01 23:16:33.973641,Technology,7106.32,Direct Debit,Operations
+2023-10-14 23:16:33.973641,Technology,10527.09,Check,Finance
+2023-12-18 23:16:33.973641,Technology,13287.45,Check,Finance
+2024-08-13 23:16:33.973641,Maintenance,5564.81,Check,Operations
+2023-10-18 23:16:33.973641,Rent,7527.14,Check,IT
+2024-04-04 23:16:33.973641,Maintenance,10031.0,Credit Card,Marketing
+2023-12-29 23:16:33.973641,Rent,19542.23,Credit Card,Operations
+2024-05-17 23:16:33.973641,Salaries,14114.93,Credit Card,Marketing
+2023-12-28 23:16:33.973641,Utilities,17666.9,Credit Card,HR
+2024-10-02 23:16:33.973641,Utilities,12274.12,Direct Debit,IT
+2024-03-24 23:16:33.973641,Rent,8507.41,Credit Card,Marketing
+2023-11-28 23:16:33.973641,Maintenance,11624.17,Check,IT
+2024-09-13 23:16:33.973641,Rent,1060.69,Check,Marketing
+2024-06-02 23:16:33.973641,Technology,17036.52,Credit Card,HR
+2024-08-03 23:16:33.973641,Maintenance,13114.78,Credit Card,Finance
+2024-08-26 23:16:33.973641,Salaries,16295.46,Check,Operations
+2023-12-06 23:16:33.973641,Technology,7304.25,Check,Operations
+2024-03-05 23:16:33.973641,Salaries,8410.14,Credit Card,HR
+2024-07-03 23:16:33.973641,Utilities,12118.33,Credit Card,HR
+2024-02-18 23:16:33.973641,Rent,19399.41,Check,Marketing
+2023-11-01 23:16:33.973641,Utilities,12078.56,Check,Marketing
+2023-10-28 23:16:33.973641,Technology,5114.92,Credit Card,Operations
+2023-12-04 23:16:33.973641,Rent,18369.8,Credit Card,Finance
+2024-09-07 23:16:33.973641,Maintenance,8242.13,Credit Card,Marketing
+2024-03-27 23:16:33.973641,Utilities,11278.27,Credit Card,Marketing
+2024-02-20 23:16:33.973641,Rent,13764.28,Check,IT
+2024-09-26 23:16:33.973641,Utilities,16532.62,Check,Marketing
+2023-11-27 23:16:33.973641,Technology,15816.1,Check,Marketing
+2023-12-27 23:16:33.973641,Technology,16323.91,Credit Card,HR
+2024-06-18 23:16:33.973641,Utilities,11112.81,Direct Debit,Marketing
+2024-02-23 23:16:33.973641,Maintenance,19884.53,Direct Debit,Marketing
+2023-10-23 23:16:33.973641,Technology,8998.88,Check,HR
+2024-04-08 23:16:33.973641,Utilities,11651.03,Direct Debit,Marketing
+2023-11-09 23:16:33.973641,Rent,18320.17,Credit Card,Marketing
+2024-06-06 23:16:33.973641,Technology,18238.93,Direct Debit,HR
+2024-04-05 23:16:33.973641,Maintenance,1924.19,Credit Card,Finance
+2024-06-15 23:16:33.973641,Salaries,15029.67,Credit Card,Finance
+2024-03-13 23:16:33.973641,Maintenance,3103.31,Direct Debit,HR
+2024-06-14 23:16:33.973641,Technology,6635.2,Check,IT
+2024-02-28 23:16:33.973641,Maintenance,9299.51,Check,Marketing
+2023-11-29 23:16:33.973641,Rent,13426.26,Direct Debit,Finance
+2024-03-18 23:16:33.973641,Salaries,2837.04,Check,Finance
+2023-10-24 23:16:33.973641,Rent,1517.69,Credit Card,Finance
+2024-01-15 23:16:33.973641,Rent,14429.85,Check,Operations
+2023-10-13 23:16:33.973641,Utilities,16744.82,Check,IT
+2024-03-23 23:16:33.973641,Maintenance,8670.98,Check,Operations
+2024-09-29 23:16:33.973641,Rent,12249.89,Credit Card,Operations
+2024-03-06 23:16:33.973641,Rent,7186.76,Check,Marketing
+2024-05-07 23:16:33.973641,Maintenance,14794.87,Direct Debit,Operations
+2024-06-28 23:16:33.973641,Technology,14318.1,Direct Debit,Marketing
+2024-05-14 23:16:33.973641,Salaries,12111.33,Direct Debit,Operations
+2024-09-07 23:16:33.973641,Utilities,13474.98,Credit Card,Operations
+2024-04-10 23:16:33.973641,Rent,2430.65,Direct Debit,HR
+2024-02-22 23:16:33.973641,Utilities,5862.6,Direct Debit,Marketing
+2023-12-06 23:16:33.973641,Salaries,14014.01,Check,IT
+2024-07-01 23:16:33.973641,Technology,3109.23,Credit Card,Finance
+2024-07-23 23:16:33.973641,Utilities,6079.07,Check,HR
+2024-03-28 23:16:33.973641,Utilities,13032.16,Check,Operations
+2024-05-18 23:16:33.973641,Technology,5156.53,Credit Card,Finance
+2024-07-27 23:16:33.973641,Technology,6581.27,Credit Card,Finance
+2024-08-16 23:16:33.973641,Utilities,18180.32,Direct Debit,IT
+2024-05-06 23:16:33.973641,Rent,1397.83,Credit Card,HR
+2024-07-29 23:16:33.973641,Salaries,8865.95,Check,IT
+2024-09-08 23:16:33.973641,Utilities,7809.83,Credit Card,HR
+2024-02-07 23:16:33.973641,Maintenance,9291.41,Direct Debit,Finance
+2024-06-15 23:16:33.973641,Rent,13878.14,Direct Debit,HR
+2024-05-29 23:16:33.973641,Maintenance,12876.63,Check,HR
+2024-05-15 23:16:33.973641,Technology,15693.11,Direct Debit,HR
+2024-04-11 23:16:33.973641,Maintenance,13176.62,Direct Debit,Marketing
+2023-10-30 23:16:33.973641,Maintenance,7900.39,Check,Operations
+2024-09-18 23:16:33.973641,Rent,3335.78,Check,IT
+2023-10-26 23:16:33.973641,Maintenance,6957.78,Credit Card,Operations
+2023-10-10 23:16:33.973641,Utilities,11118.76,Check,HR
+2024-08-27 23:16:33.973641,Salaries,17248.31,Direct Debit,Operations
+2023-11-20 23:16:33.973641,Technology,6549.19,Direct Debit,HR
+2023-10-08 23:16:33.973641,Salaries,19605.71,Credit Card,Marketing
+2024-08-27 23:16:33.973641,Salaries,18760.65,Check,HR
+2024-09-17 23:16:33.973641,Technology,2192.36,Credit Card,IT
+2024-05-26 23:16:33.973641,Technology,2909.43,Check,Finance
+2024-09-15 23:16:33.973641,Technology,10075.12,Credit Card,Operations
+2023-11-05 23:16:33.973641,Technology,13071.66,Credit Card,HR
+2024-06-15 23:16:33.973641,Rent,8429.44,Direct Debit,Operations
+2024-08-01 23:16:33.973641,Utilities,17292.7,Credit Card,Finance
+2024-01-08 23:16:33.973641,Technology,16136.83,Check,HR
+2024-03-08 23:16:33.973641,Maintenance,2143.0,Check,IT
+2024-08-06 23:16:33.973641,Maintenance,18808.31,Direct Debit,Finance
+2024-06-04 23:16:33.973641,Maintenance,7094.4,Check,HR
+2024-07-27 23:16:33.973641,Maintenance,17078.67,Credit Card,HR
+2024-05-20 23:16:33.973641,Salaries,15180.64,Check,HR
+2023-11-02 23:16:33.973641,Salaries,3843.86,Direct Debit,Operations
+2024-08-02 23:16:33.973641,Utilities,12697.0,Credit Card,Finance
+2024-09-22 23:16:33.973641,Rent,15185.28,Check,IT
+2024-07-12 23:16:33.973641,Maintenance,17647.87,Check,HR
+2024-05-23 23:16:33.973641,Rent,17124.56,Credit Card,Finance
+2024-05-08 23:16:33.973641,Rent,13425.64,Check,HR
+2024-04-30 23:16:33.973641,Technology,17301.01,Direct Debit,Finance
+2024-05-29 23:16:33.973641,Salaries,7254.26,Check,HR
+2024-01-27 23:16:33.973641,Rent,18143.57,Credit Card,IT
+2024-04-23 23:16:33.973641,Technology,17888.18,Direct Debit,IT
+2024-06-13 23:16:33.973641,Maintenance,10619.87,Check,Operations
+2024-09-02 23:16:33.973641,Maintenance,18709.11,Check,HR
+2024-05-30 23:16:33.973641,Technology,16138.9,Credit Card,HR
+2024-02-12 23:16:33.973641,Maintenance,6928.4,Credit Card,Finance
+2024-05-24 23:16:33.973641,Utilities,8189.53,Check,Finance
+2023-10-21 23:16:33.973641,Technology,1320.8,Direct Debit,Finance
+2023-11-14 23:16:33.973641,Rent,9503.37,Direct Debit,IT
+2024-08-13 23:16:33.973641,Utilities,8588.3,Check,IT
+2024-04-23 23:16:33.973641,Technology,9338.9,Check,Marketing
+2024-06-02 23:16:33.973641,Utilities,12950.6,Credit Card,Finance
+2024-06-26 23:16:33.973641,Rent,6742.51,Credit Card,Operations
+2024-01-10 23:16:33.973641,Rent,5842.05,Check,HR
+2024-02-16 23:16:33.973641,Utilities,3527.66,Check,Operations
+2024-05-17 23:16:33.973641,Rent,18899.7,Credit Card,Marketing
+2023-10-25 23:16:33.973641,Rent,1362.26,Check,IT
+2024-02-04 23:16:33.973641,Maintenance,12297.97,Credit Card,Operations
+2024-01-19 23:16:33.973641,Maintenance,1139.72,Check,HR
+2024-03-14 23:16:33.973641,Maintenance,1823.13,Credit Card,IT
+2024-05-17 23:16:33.973641,Salaries,10310.67,Check,Finance
+2024-04-27 23:16:33.973641,Salaries,8728.59,Check,IT
+2023-11-15 23:16:33.973641,Maintenance,8994.72,Direct Debit,IT
+2024-05-26 23:16:33.973641,Salaries,3744.45,Credit Card,IT
+2024-04-07 23:16:33.973641,Utilities,9289.46,Check,Finance
+2023-12-28 23:16:33.973641,Utilities,13847.14,Direct Debit,IT
+2024-05-28 23:16:33.973641,Maintenance,5959.99,Check,Marketing
+2024-06-30 23:16:33.973641,Maintenance,18508.43,Direct Debit,IT
+2024-09-20 23:16:33.973641,Salaries,6744.3,Direct Debit,IT
+2024-05-27 23:16:33.973641,Rent,17362.55,Credit Card,Finance
+2024-08-28 23:16:33.973641,Salaries,16489.17,Credit Card,Marketing
+2024-08-25 23:16:33.973641,Maintenance,10896.91,Check,HR
+2023-11-26 23:16:33.973641,Maintenance,5162.98,Direct Debit,Finance
+2024-01-15 23:16:33.973641,Salaries,10946.09,Credit Card,Operations
+2023-12-12 23:16:33.973641,Maintenance,2986.64,Direct Debit,Operations
+2023-11-28 23:16:33.973641,Maintenance,19818.54,Check,Operations
+2023-11-01 23:16:33.973641,Salaries,12343.41,Check,HR
+2024-07-14 23:16:33.973641,Utilities,1190.06,Credit Card,HR
+2024-01-14 23:16:33.973641,Utilities,17930.7,Check,IT
+2024-05-14 23:16:33.973641,Rent,9144.31,Direct Debit,HR
+2024-02-25 23:16:33.973641,Rent,5677.57,Credit Card,HR
+2023-11-08 23:16:33.973641,Utilities,7348.46,Check,Finance
+2024-05-27 23:16:33.973641,Salaries,18202.9,Direct Debit,Operations
+2024-06-20 23:16:33.973641,Utilities,16988.8,Direct Debit,IT
+2024-09-13 23:16:33.973641,Rent,10851.64,Check,IT
+2024-03-18 23:16:33.973641,Technology,8569.41,Check,Operations
+2024-02-27 23:16:33.973641,Salaries,17527.61,Credit Card,IT
+2024-01-21 23:16:33.973641,Rent,15046.76,Direct Debit,IT
+2023-10-06 23:16:33.973641,Technology,3366.18,Check,Operations
+2024-06-02 23:16:33.973641,Rent,17380.04,Check,Marketing
+2024-04-17 23:16:33.973641,Utilities,16887.76,Credit Card,Finance
+2024-01-03 23:16:33.973641,Rent,1173.61,Direct Debit,Operations
+2024-05-23 23:16:33.973641,Rent,17795.59,Credit Card,Marketing
+2024-09-28 23:16:33.973641,Maintenance,15755.89,Credit Card,Finance
+2023-12-10 23:16:33.973641,Technology,16836.57,Check,Marketing
+2024-01-07 23:16:33.973641,Salaries,3884.92,Check,Marketing
+2024-01-26 23:16:33.973641,Technology,17350.22,Credit Card,Marketing
+2023-12-19 23:16:33.973641,Salaries,11781.54,Check,Operations
+2024-09-12 23:16:33.973641,Maintenance,16900.97,Credit Card,Operations
+2024-02-01 23:16:33.973641,Salaries,17896.91,Credit Card,Marketing
+2024-07-19 23:16:33.973641,Utilities,19596.46,Check,Finance
+2024-06-21 23:16:33.973641,Utilities,14233.29,Check,HR
+2024-08-18 23:16:33.973641,Technology,1977.43,Direct Debit,Operations
+2023-10-11 23:16:33.973641,Maintenance,8994.44,Check,IT
+2024-03-13 23:16:33.973641,Maintenance,13388.0,Direct Debit,Finance
+2023-10-25 23:16:33.973641,Rent,13245.52,Credit Card,IT
+2023-10-21 23:16:33.973641,Utilities,14179.74,Direct Debit,HR
+2024-02-10 23:16:33.973641,Technology,14714.27,Direct Debit,HR
+2024-09-29 23:16:33.973641,Utilities,9150.93,Check,Finance
+2024-09-10 23:16:33.973641,Utilities,3638.36,Check,IT
+2023-11-17 23:16:33.973641,Maintenance,10970.81,Check,Marketing
+2023-10-10 23:16:33.973641,Salaries,2771.95,Direct Debit,Marketing
+2024-04-23 23:16:33.973641,Technology,15008.85,Check,IT
+2023-11-01 23:16:33.973641,Rent,15871.06,Credit Card,Operations
+2024-03-28 23:16:33.973641,Technology,13819.11,Credit Card,IT
+2024-09-12 23:16:33.973641,Rent,9733.8,Credit Card,Marketing
+2024-04-01 23:16:33.973641,Technology,17632.0,Credit Card,IT
+2023-11-21 23:16:33.973641,Salaries,9540.15,Check,IT
+2024-06-18 23:16:33.973641,Salaries,16917.04,Credit Card,IT
+2024-04-16 23:16:33.973641,Utilities,2573.6,Direct Debit,Marketing
+2024-01-23 23:16:33.973641,Utilities,6703.5,Direct Debit,Marketing
+2024-02-14 23:16:33.973641,Technology,1879.6,Check,Operations
+2024-03-24 23:16:33.973641,Rent,6714.78,Check,Marketing
+2023-10-30 23:16:33.973641,Technology,1210.96,Check,Marketing
+2024-02-09 23:16:33.973641,Salaries,15343.4,Check,HR
+2024-04-23 23:16:33.973641,Technology,3540.43,Check,Finance
+2024-07-20 23:16:33.973641,Technology,3118.59,Direct Debit,Marketing
+2024-01-14 23:16:33.973641,Maintenance,14338.35,Direct Debit,IT
+2024-02-28 23:16:33.973641,Maintenance,1970.47,Check,Marketing
+2023-10-17 23:16:33.973641,Salaries,17424.77,Direct Debit,IT
+2024-06-06 23:16:33.973641,Technology,3922.57,Credit Card,HR
+2024-07-28 23:16:33.973641,Utilities,4950.24,Credit Card,Marketing
+2023-11-10 23:16:33.973641,Rent,6581.04,Check,Finance
+2024-04-13 23:16:33.973641,Salaries,12476.18,Check,Marketing
+2024-04-28 23:16:33.973641,Salaries,13585.14,Credit Card,Finance
+2024-03-13 23:16:33.973641,Maintenance,8881.77,Check,Marketing
+2024-05-22 23:16:33.973641,Technology,4623.63,Check,Finance
+2024-04-08 23:16:33.973641,Utilities,13230.83,Check,IT
+2023-10-08 23:16:33.973641,Salaries,5020.31,Direct Debit,HR
+2024-03-05 23:16:33.973641,Rent,10542.58,Credit Card,Finance
+2024-06-27 23:16:33.973641,Utilities,13244.02,Direct Debit,Marketing
+2024-08-15 23:16:33.973641,Technology,6628.48,Check,IT
+2024-06-08 23:16:33.973641,Technology,14848.89,Direct Debit,Finance
+2024-03-08 23:16:33.973641,Maintenance,1190.98,Check,HR
+2024-07-01 23:16:33.973641,Utilities,17065.66,Direct Debit,HR
+2024-04-29 23:16:33.973641,Technology,15416.2,Credit Card,IT
+2024-06-08 23:16:33.973641,Utilities,1286.47,Credit Card,IT
+2024-01-24 23:16:33.973641,Rent,7246.55,Credit Card,IT
+2024-09-20 23:16:33.973641,Rent,11943.0,Direct Debit,Finance
+2024-09-19 23:16:33.973641,Salaries,14321.17,Check,HR
+2024-10-02 23:16:33.973641,Maintenance,19716.57,Check,Marketing
+2024-01-26 23:16:33.973641,Maintenance,1751.37,Check,Marketing
+2024-02-23 23:16:33.973641,Rent,17886.74,Credit Card,Marketing
+2024-08-07 23:16:33.973641,Rent,18610.57,Check,IT
+2024-07-02 23:16:33.973641,Technology,2885.42,Direct Debit,Marketing
+2024-06-28 23:16:33.973641,Technology,17402.08,Credit Card,HR
+2024-09-10 23:16:33.973641,Maintenance,14396.06,Direct Debit,IT
+2023-12-15 23:16:33.973641,Rent,12080.32,Check,Finance
+2023-12-11 23:16:33.973641,Utilities,11388.81,Direct Debit,Finance
+2023-12-29 23:16:33.973641,Utilities,19782.62,Check,Operations
+2024-05-09 23:16:33.973641,Salaries,7705.11,Credit Card,IT
+2023-11-30 23:16:33.973641,Utilities,10441.85,Credit Card,IT
+2024-08-16 23:16:33.973641,Maintenance,11399.36,Credit Card,HR
+2023-10-18 23:16:33.973641,Salaries,17764.41,Check,Marketing
+2024-09-17 23:16:33.973641,Rent,10718.46,Check,Finance
+2023-11-23 23:16:33.973641,Salaries,14742.05,Check,Finance
+2024-05-04 23:16:33.973641,Maintenance,7586.76,Check,Marketing
+2023-10-07 23:16:33.973641,Salaries,6147.18,Direct Debit,Operations
+2024-09-06 23:16:33.973641,Salaries,17104.72,Credit Card,Operations
+2024-03-09 23:16:33.973641,Maintenance,13289.59,Check,Marketing
+2024-02-05 23:16:33.973641,Utilities,9884.75,Direct Debit,HR
+2024-09-27 23:16:33.973641,Rent,11140.29,Check,Marketing
+2024-01-17 23:16:33.973641,Maintenance,11650.77,Check,Operations
+2024-05-31 23:16:33.973641,Maintenance,19943.94,Direct Debit,Operations
+2024-01-27 23:16:33.973641,Technology,12127.88,Direct Debit,Marketing
+2024-04-30 23:16:33.973641,Salaries,4707.87,Direct Debit,Marketing
+2024-02-16 23:16:33.973641,Salaries,14707.42,Credit Card,IT
+2023-11-13 23:16:33.973641,Salaries,7544.69,Direct Debit,HR
+2024-08-25 23:16:33.973641,Salaries,6433.98,Direct Debit,Marketing
+2024-06-06 23:16:33.973641,Utilities,16783.13,Credit Card,HR
+2024-07-10 23:16:33.973641,Technology,5281.27,Direct Debit,Finance
+2024-01-22 23:16:33.973641,Technology,17163.92,Direct Debit,IT
+2024-09-23 23:16:33.973641,Salaries,4367.2,Check,Marketing
+2024-04-23 23:16:33.973641,Utilities,15331.86,Direct Debit,IT
+2024-07-03 23:16:33.973641,Salaries,9242.51,Check,HR
+2024-07-12 23:16:33.973641,Salaries,5182.93,Credit Card,Finance
+2023-11-02 23:16:33.973641,Salaries,7059.18,Credit Card,HR
+2024-04-30 23:16:33.973641,Utilities,11869.75,Credit Card,Operations
+2024-08-30 23:16:33.973641,Utilities,6963.08,Check,IT
+2024-05-27 23:16:33.973641,Technology,5729.65,Check,HR
+2024-04-28 23:16:33.973641,Maintenance,6079.26,Direct Debit,Operations
+2024-09-10 23:16:33.973641,Maintenance,14203.51,Check,Finance
+2024-04-24 23:16:33.973641,Utilities,1031.43,Check,Marketing
+2023-11-02 23:16:33.973641,Salaries,1656.2,Direct Debit,Finance
+2024-09-27 23:16:33.973641,Technology,12059.56,Check,IT
+2024-08-10 23:16:33.973641,Technology,15156.33,Credit Card,HR
+2024-09-15 23:16:33.973641,Technology,3411.68,Direct Debit,HR
+2024-05-15 23:16:33.973641,Maintenance,18458.46,Direct Debit,HR
+2023-10-15 23:16:33.973641,Rent,18558.16,Check,Marketing
+2023-10-21 23:16:33.973641,Maintenance,3421.71,Credit Card,Finance
+2024-01-13 23:16:33.973641,Rent,2625.31,Direct Debit,Operations
+2023-12-11 23:16:33.973641,Technology,9518.76,Credit Card,Finance
+2024-06-15 23:16:33.973641,Utilities,4167.73,Credit Card,Marketing
+2023-12-09 23:16:33.973641,Rent,14887.11,Direct Debit,HR
+2024-03-28 23:16:33.973641,Maintenance,17165.55,Direct Debit,Finance
+2024-03-01 23:16:33.973641,Utilities,19451.46,Direct Debit,Finance
+2024-08-15 23:16:33.973641,Salaries,12748.43,Credit Card,HR
+2023-11-24 23:16:33.973641,Technology,5668.61,Check,Finance
+2024-03-17 23:16:33.973641,Rent,7125.14,Credit Card,Marketing
+2024-05-27 23:16:33.973641,Technology,8447.51,Check,Marketing
+2024-08-07 23:16:33.973641,Utilities,15433.59,Credit Card,Marketing
+2024-08-05 23:16:33.973641,Technology,11209.11,Direct Debit,IT
+2024-10-04 23:16:33.973641,Technology,18468.71,Credit Card,IT
+2024-01-28 23:16:33.973641,Rent,13082.83,Direct Debit,Finance
+2024-06-04 23:16:33.973641,Rent,16715.72,Direct Debit,Operations
+2023-11-13 23:16:33.973641,Rent,6879.63,Credit Card,IT
+2024-01-25 23:16:33.973641,Rent,10820.2,Credit Card,HR
+2024-04-07 23:16:33.973641,Maintenance,6230.91,Direct Debit,HR
+2024-04-10 23:16:33.973641,Salaries,13738.48,Direct Debit,HR
+2024-09-15 23:16:33.973641,Maintenance,5170.34,Direct Debit,Operations
+2024-09-04 23:16:33.973641,Utilities,7706.85,Check,Finance
+2024-02-22 23:16:33.973641,Maintenance,7165.06,Check,Finance
+2023-12-21 23:16:33.973641,Maintenance,4292.08,Check,HR
+2023-10-26 23:16:33.973641,Utilities,5012.55,Check,HR
+2024-02-20 23:16:33.973641,Salaries,6912.43,Check,Operations
+2024-02-24 23:16:33.973641,Salaries,8800.59,Credit Card,HR
+2024-04-19 23:16:33.973641,Utilities,10844.25,Direct Debit,Operations
+2024-08-11 23:16:33.973641,Salaries,15633.0,Direct Debit,Operations
+2024-08-09 23:16:33.973641,Maintenance,14499.2,Credit Card,IT
+2024-04-12 23:16:33.973641,Salaries,18773.29,Credit Card,IT
+2023-11-09 23:16:33.973641,Technology,17072.13,Check,Marketing
+2023-12-30 23:16:33.973641,Utilities,13514.75,Direct Debit,Marketing
+2024-08-09 23:16:33.973641,Utilities,5940.66,Check,Operations
+2024-09-02 23:16:33.973641,Rent,16365.24,Credit Card,IT
+2024-01-13 23:16:33.973641,Rent,8532.93,Direct Debit,Marketing
+2024-08-05 23:16:33.973641,Salaries,9182.46,Check,Finance
+2024-06-15 23:16:33.973641,Utilities,16951.53,Direct Debit,IT
+2024-02-21 23:16:33.973641,Rent,1391.37,Credit Card,Operations
+2023-11-29 23:16:33.973641,Technology,4364.97,Direct Debit,Operations
+2024-01-21 23:16:33.973641,Rent,6477.95,Direct Debit,HR
+2023-12-10 23:16:33.973641,Technology,19653.71,Direct Debit,Marketing
+2024-09-12 23:16:33.973641,Technology,16282.68,Check,Operations
+2024-03-27 23:16:33.973641,Utilities,12893.8,Direct Debit,Finance
+2024-06-22 23:16:33.973641,Technology,5485.05,Direct Debit,Marketing
+2024-01-28 23:16:33.973641,Maintenance,8073.0,Direct Debit,HR
+2024-04-17 23:16:33.973641,Maintenance,9246.35,Direct Debit,IT
+2024-03-06 23:16:33.973641,Salaries,4844.1,Direct Debit,HR
+2024-10-04 23:16:33.973641,Salaries,15577.89,Direct Debit,Marketing
+2024-05-10 23:16:33.973641,Rent,3312.01,Check,Finance
+2024-04-30 23:16:33.973641,Salaries,18916.11,Check,Marketing
+2024-02-29 23:16:33.973641,Salaries,14690.37,Check,HR
+2023-11-13 23:16:33.973641,Maintenance,16926.27,Check,IT
+2024-06-21 23:16:33.973641,Rent,13148.24,Direct Debit,HR
+2024-08-21 23:16:33.973641,Maintenance,16588.51,Credit Card,Finance
+2024-07-13 23:16:33.973641,Rent,12727.22,Credit Card,Finance
+2023-10-29 23:16:33.974946,Rent,12991.48,Credit Card,IT
+2024-06-24 23:16:33.974946,Rent,4023.56,Direct Debit,Operations
+2024-04-28 23:16:33.974946,Salaries,9867.65,Credit Card,Finance
+2024-02-03 23:16:33.974946,Maintenance,2404.18,Check,Marketing
+2024-03-05 23:16:33.974946,Technology,16604.23,Credit Card,Marketing
+2024-06-15 23:16:33.974946,Rent,8219.01,Credit Card,HR
+2024-02-22 23:16:33.974946,Technology,4418.17,Direct Debit,HR
+2024-04-23 23:16:33.974946,Rent,9075.98,Direct Debit,Operations
+2023-11-29 23:16:33.974946,Rent,5032.38,Direct Debit,Operations
+2024-02-19 23:16:33.974946,Maintenance,2633.46,Credit Card,Operations
+2024-07-14 23:16:33.974946,Utilities,7153.7,Check,Marketing
+2024-06-22 23:16:33.974946,Technology,7996.98,Direct Debit,HR
+2024-05-23 23:16:33.974946,Technology,2101.31,Credit Card,IT
+2024-03-14 23:16:33.974946,Maintenance,11837.97,Direct Debit,Operations
+2023-10-18 23:16:33.974946,Salaries,8752.96,Credit Card,Operations
+2023-10-07 23:16:33.974946,Maintenance,1634.21,Direct Debit,HR
+2024-07-20 23:16:33.974946,Rent,19361.98,Credit Card,HR
+2023-12-06 23:16:33.974946,Maintenance,6363.23,Credit Card,Finance
+2023-12-03 23:16:33.974946,Rent,17298.16,Credit Card,HR
+2024-06-10 23:16:33.974946,Rent,16843.27,Credit Card,Marketing
+2023-10-25 23:16:33.974946,Rent,12325.37,Credit Card,IT
+2024-06-11 23:16:33.974946,Rent,4887.01,Direct Debit,HR
+2024-02-14 23:16:33.974946,Technology,7254.03,Credit Card,Marketing
+2023-10-26 23:16:33.974946,Rent,4387.07,Check,IT
+2024-03-14 23:16:33.974946,Utilities,11234.49,Credit Card,HR
+2024-09-25 23:16:33.974946,Utilities,10015.72,Direct Debit,Finance
+2024-05-06 23:16:33.974946,Technology,6738.12,Check,HR
+2024-01-07 23:16:33.974946,Utilities,6600.67,Credit Card,Finance
+2024-04-04 23:16:33.974946,Maintenance,17572.51,Credit Card,Operations
+2024-09-10 23:16:33.974946,Salaries,3164.93,Check,Marketing
+2023-11-04 23:16:33.974946,Salaries,7776.35,Check,Marketing
+2023-11-26 23:16:33.974946,Rent,16815.28,Credit Card,IT
+2023-12-25 23:16:33.974946,Maintenance,3261.06,Credit Card,IT
+2023-10-17 23:16:33.974946,Technology,14340.86,Credit Card,HR
+2024-09-24 23:16:33.974946,Maintenance,1544.63,Credit Card,Marketing
+2024-07-05 23:16:33.974946,Technology,19333.99,Credit Card,HR
+2024-01-13 23:16:33.974946,Utilities,9494.97,Credit Card,HR
+2024-01-23 23:16:33.974946,Utilities,14285.04,Direct Debit,HR
+2024-09-16 23:16:33.974946,Salaries,10116.3,Credit Card,Operations
+2024-02-12 23:16:33.974946,Maintenance,16006.05,Check,HR
+2023-10-07 23:16:33.974946,Salaries,13865.48,Check,Marketing
+2024-04-12 23:16:33.974946,Salaries,1465.38,Check,Operations
+2023-12-24 23:16:33.974946,Salaries,4174.45,Check,Operations
+2024-05-10 23:16:33.974946,Utilities,6356.24,Direct Debit,Operations
+2024-04-08 23:16:33.974946,Technology,7146.41,Check,IT
+2024-06-29 23:16:33.974946,Utilities,9164.47,Direct Debit,HR
+2024-08-28 23:16:33.974946,Salaries,4653.41,Direct Debit,IT
+2024-05-21 23:16:33.974946,Rent,14143.49,Check,IT
+2023-11-22 23:16:33.974946,Rent,19134.38,Check,Marketing
+2024-03-15 23:16:33.974946,Maintenance,2648.08,Direct Debit,Operations
+2024-04-29 23:16:33.974946,Technology,13022.14,Direct Debit,Operations
+2023-10-25 23:16:33.974946,Maintenance,11000.46,Credit Card,Operations
+2024-08-31 23:16:33.974946,Rent,18112.11,Check,Marketing
+2024-02-04 23:16:33.974946,Utilities,18354.11,Direct Debit,Finance
+2024-09-18 23:16:33.974946,Utilities,18590.57,Check,Finance
+2024-01-09 23:16:33.974946,Rent,15399.78,Credit Card,Marketing
+2024-05-05 23:16:33.974946,Rent,1240.52,Credit Card,HR
+2023-10-30 23:16:33.974946,Technology,12591.87,Direct Debit,Marketing
+2024-09-10 23:16:33.974946,Utilities,2751.77,Credit Card,IT
+2024-03-31 23:16:33.974946,Technology,16861.32,Credit Card,HR
+2024-06-05 23:16:33.974946,Maintenance,16072.85,Direct Debit,Finance
+2024-08-18 23:16:33.974946,Salaries,15261.25,Direct Debit,IT
+2024-08-25 23:16:33.974946,Technology,11723.26,Direct Debit,Finance
+2024-04-14 23:16:33.974946,Salaries,10784.3,Check,Marketing
+2024-09-12 23:16:33.974946,Rent,19447.01,Credit Card,Finance
+2024-05-23 23:16:33.974946,Rent,1070.64,Direct Debit,Finance
+2024-01-03 23:16:33.974946,Utilities,14809.42,Credit Card,Operations
+2024-04-07 23:16:33.974946,Salaries,10475.9,Check,HR
+2023-10-08 23:16:33.974946,Utilities,18874.92,Credit Card,Finance
+2024-01-13 23:16:33.974946,Technology,4445.05,Check,Operations
+2024-07-19 23:16:33.974946,Salaries,3818.5,Direct Debit,IT
+2024-07-01 23:16:33.974946,Utilities,12083.81,Direct Debit,Finance
+2023-10-27 23:16:33.974946,Utilities,14440.55,Credit Card,Operations
+2024-04-10 23:16:33.974946,Technology,19074.54,Credit Card,HR
+2024-06-23 23:16:33.974946,Salaries,14287.75,Check,Marketing
+2024-06-09 23:16:33.974946,Rent,14462.15,Credit Card,Finance
+2023-12-17 23:16:33.974946,Rent,2729.7,Direct Debit,HR
+2024-05-14 23:16:33.974946,Technology,19899.47,Direct Debit,Finance
+2024-04-10 23:16:33.974946,Salaries,4385.68,Credit Card,Finance
+2024-01-06 23:16:33.974946,Utilities,10912.26,Credit Card,Marketing
+2024-03-09 23:16:33.974946,Salaries,19757.86,Direct Debit,HR
+2024-01-06 23:16:33.974946,Technology,18676.32,Check,Finance
+2024-09-09 23:16:33.974946,Maintenance,14649.36,Direct Debit,HR
+2023-11-06 23:16:33.974946,Salaries,16384.8,Check,Marketing
+2024-03-16 23:16:33.974946,Salaries,5300.17,Credit Card,IT
+2023-10-25 23:16:33.974946,Utilities,7943.03,Credit Card,Operations
+2024-07-24 23:16:33.974946,Utilities,13099.6,Check,Finance
+2024-02-08 23:16:33.974946,Utilities,13924.17,Credit Card,Marketing
+2023-12-08 23:16:33.974946,Rent,8572.92,Credit Card,Finance
+2024-06-30 23:16:33.974946,Rent,19335.15,Check,HR
+2023-12-19 23:16:33.974946,Maintenance,8982.7,Check,Operations
+2023-10-06 23:16:33.974946,Technology,6319.68,Check,Operations
+2023-12-26 23:16:33.974946,Rent,12750.92,Direct Debit,Finance
+2024-01-07 23:16:33.974946,Maintenance,19869.87,Credit Card,Marketing
+2024-06-29 23:16:33.974946,Utilities,2600.88,Credit Card,HR
+2024-07-06 23:16:33.974946,Rent,10122.5,Check,Operations
+2024-03-20 23:16:33.974946,Maintenance,17804.63,Credit Card,IT
+2024-09-18 23:16:33.974946,Maintenance,3056.47,Direct Debit,Operations
+2024-04-12 23:16:33.974946,Salaries,5318.32,Direct Debit,HR
+2024-04-19 23:16:33.974946,Maintenance,9148.73,Check,Finance
+2024-07-01 23:16:33.974946,Salaries,16575.56,Direct Debit,HR
+2024-02-03 23:16:33.974946,Rent,5665.58,Check,HR
+2023-12-24 23:16:33.974946,Rent,16433.96,Credit Card,Marketing
+2024-08-11 23:16:33.974946,Rent,12963.66,Credit Card,IT
+2023-10-05 23:16:33.974946,Utilities,9202.03,Direct Debit,Finance
+2024-03-20 23:16:33.974946,Rent,13212.47,Check,Marketing
+2023-10-23 23:16:33.974946,Rent,13997.09,Check,IT
+2024-05-17 23:16:33.974946,Utilities,7175.17,Credit Card,Finance
+2024-08-12 23:16:33.974946,Rent,6023.46,Credit Card,IT
+2023-12-17 23:16:33.974946,Utilities,11857.35,Credit Card,Finance
+2024-08-10 23:16:33.974946,Utilities,8279.31,Credit Card,HR
+2024-06-27 23:16:33.974946,Technology,8297.01,Check,Finance
+2024-07-10 23:16:33.974946,Rent,16681.05,Check,Finance
+2023-11-28 23:16:33.974946,Technology,4814.89,Check,Operations
+2023-12-16 23:16:33.974946,Salaries,12403.45,Direct Debit,Marketing
+2024-09-15 23:16:33.974946,Rent,8889.01,Direct Debit,Marketing
+2023-12-27 23:16:33.974946,Rent,10255.45,Check,Operations
+2024-08-14 23:16:33.974946,Technology,18422.19,Check,Marketing
+2023-12-18 23:16:33.974946,Salaries,8502.99,Check,Finance
+2024-08-16 23:16:33.974946,Maintenance,2600.23,Credit Card,IT
+2023-10-12 23:16:33.974946,Rent,9656.27,Check,Operations
+2024-10-02 23:16:33.974946,Technology,16590.09,Direct Debit,Marketing
+2024-04-07 23:16:33.974946,Technology,6264.28,Direct Debit,Finance
+2023-10-15 23:16:33.974946,Rent,2639.6,Check,HR
+2023-12-20 23:16:33.974946,Rent,11931.12,Credit Card,Finance
+2024-03-09 23:16:33.974946,Maintenance,19627.67,Check,IT
+2024-05-26 23:16:33.974946,Salaries,12049.55,Direct Debit,IT
+2023-12-14 23:16:33.974946,Rent,8910.4,Credit Card,IT
+2024-05-17 23:16:33.974946,Utilities,3981.26,Direct Debit,HR
+2024-07-10 23:16:33.974946,Maintenance,6525.37,Credit Card,Finance
+2024-06-10 23:16:33.974946,Technology,11864.2,Credit Card,HR
+2024-05-20 23:16:33.974946,Salaries,19081.74,Check,HR
+2024-07-15 23:16:33.974946,Technology,3765.13,Check,Finance
+2024-09-28 23:16:33.974946,Utilities,14590.66,Credit Card,HR
+2024-06-06 23:16:33.974946,Salaries,10284.53,Direct Debit,HR
+2024-07-08 23:16:33.974946,Technology,17913.42,Credit Card,IT
+2024-03-14 23:16:33.974946,Rent,10201.18,Check,HR
+2024-06-05 23:16:33.974946,Utilities,17162.63,Check,Operations
+2024-01-31 23:16:33.974946,Maintenance,2399.42,Check,Finance
+2024-07-17 23:16:33.974946,Maintenance,16218.59,Direct Debit,IT
+2024-07-14 23:16:33.974946,Maintenance,12246.11,Credit Card,Marketing
+2023-11-12 23:16:33.974946,Rent,3426.14,Check,Marketing
+2024-03-05 23:16:33.974946,Utilities,2632.31,Direct Debit,Finance
+2024-04-24 23:16:33.974946,Rent,18116.3,Credit Card,Operations
+2024-02-04 23:16:33.974946,Technology,16641.3,Credit Card,Finance
+2024-09-19 23:16:33.974946,Rent,4983.79,Check,Marketing
+2024-03-13 23:16:33.974946,Utilities,9255.41,Check,Finance
+2023-12-20 23:16:33.974946,Maintenance,18473.98,Direct Debit,IT
+2023-10-29 23:16:33.974946,Utilities,19524.87,Credit Card,Operations
+2024-05-10 23:16:33.974946,Salaries,14629.57,Direct Debit,Marketing
+2024-04-07 23:16:33.974946,Salaries,9351.56,Credit Card,HR
+2024-07-20 23:16:33.974946,Maintenance,4033.51,Credit Card,Finance
+2024-07-25 23:16:33.974946,Technology,12375.65,Direct Debit,Finance
+2024-08-21 23:16:33.974946,Salaries,12302.59,Direct Debit,Finance
+2024-04-25 23:16:33.974946,Technology,18951.5,Direct Debit,Operations
+2024-07-18 23:16:33.974946,Rent,10986.85,Direct Debit,IT
+2024-05-04 23:16:33.974946,Rent,13246.15,Credit Card,Finance
+2024-06-13 23:16:33.974946,Technology,16842.73,Check,IT
+2023-12-09 23:16:33.974946,Salaries,11674.54,Check,Operations
+2023-12-02 23:16:33.974946,Technology,7371.89,Check,Finance
+2024-10-03 23:16:33.974946,Technology,14896.2,Credit Card,Marketing
+2023-10-13 23:16:33.974946,Maintenance,13204.43,Check,HR
+2024-09-03 23:16:33.974946,Technology,4666.73,Direct Debit,Operations
+2024-09-25 23:16:33.974946,Maintenance,6270.75,Credit Card,HR
+2023-10-07 23:16:33.974946,Maintenance,17852.48,Credit Card,Operations
+2024-08-06 23:16:33.974946,Salaries,11253.88,Direct Debit,HR
+2023-12-12 23:16:33.974946,Salaries,11062.67,Credit Card,Operations
+2024-07-12 23:16:33.974946,Utilities,2172.91,Check,Operations
+2024-08-07 23:16:33.974946,Utilities,19500.1,Check,HR
+2023-12-19 23:16:33.974946,Maintenance,1217.96,Credit Card,IT
+2023-12-12 23:16:33.974946,Technology,7010.85,Direct Debit,Operations
+2024-07-08 23:16:33.974946,Maintenance,6724.37,Direct Debit,Finance
+2024-02-21 23:16:33.974946,Technology,17636.16,Direct Debit,HR
+2024-03-02 23:16:33.974946,Technology,7273.38,Direct Debit,Finance
+2024-05-08 23:16:33.974946,Maintenance,14250.96,Direct Debit,HR
+2024-06-30 23:16:33.974946,Rent,19293.01,Direct Debit,IT
+2024-05-12 23:16:33.974946,Utilities,1401.19,Direct Debit,Finance
+2024-04-11 23:16:33.974946,Technology,14709.55,Credit Card,Marketing
+2024-10-03 23:16:33.974946,Rent,5477.83,Check,Marketing
+2024-08-16 23:16:33.974946,Technology,3911.26,Direct Debit,Finance
+2024-04-25 23:16:33.974946,Salaries,9797.72,Check,Finance
+2024-05-08 23:16:33.974946,Technology,8805.86,Credit Card,Marketing
+2024-06-21 23:16:33.974946,Technology,14082.54,Credit Card,Marketing
+2024-08-18 23:16:33.974946,Rent,17697.81,Credit Card,Marketing
+2024-04-29 23:16:33.974946,Maintenance,18650.28,Credit Card,IT
+2024-02-19 23:16:33.974946,Utilities,19405.58,Direct Debit,Finance
+2024-01-22 23:16:33.974946,Utilities,8359.19,Check,Marketing
+2024-07-22 23:16:33.974946,Rent,14717.56,Check,Operations
+2024-07-02 23:16:33.974946,Technology,8796.02,Check,Operations
+2023-10-17 23:16:33.974946,Rent,1463.17,Direct Debit,IT
+2024-03-06 23:16:33.974946,Salaries,1242.71,Credit Card,Operations
+2024-09-20 23:16:33.974946,Utilities,11270.94,Direct Debit,IT
+2024-08-31 23:16:33.974946,Salaries,12979.1,Credit Card,Operations
+2024-01-26 23:16:33.974946,Technology,13391.85,Check,HR
+2024-09-03 23:16:33.974946,Salaries,7953.67,Check,Operations
+2024-02-13 23:16:33.974946,Maintenance,15337.91,Direct Debit,Marketing
+2024-05-09 23:16:33.974946,Utilities,15580.5,Direct Debit,Marketing
+2023-11-12 23:16:33.974946,Technology,15899.01,Credit Card,IT
+2023-11-30 23:16:33.974946,Utilities,15959.36,Check,Finance
+2023-12-18 23:16:33.974946,Technology,4654.19,Direct Debit,Marketing
+2024-06-21 23:16:33.974946,Utilities,6173.5,Check,Operations
+2024-07-26 23:16:33.974946,Rent,14372.71,Direct Debit,Finance
+2024-02-24 23:16:33.974946,Salaries,4935.54,Direct Debit,IT
+2023-10-07 23:16:33.974946,Maintenance,7217.75,Direct Debit,Marketing
+2024-06-18 23:16:33.974946,Maintenance,7270.82,Direct Debit,Finance
+2024-07-01 23:16:33.974946,Utilities,19408.61,Credit Card,Finance
+2023-12-09 23:16:33.974946,Maintenance,6954.22,Check,Finance
+2024-08-04 23:16:33.974946,Utilities,2377.25,Credit Card,Marketing
+2023-10-11 23:16:33.974946,Rent,2225.55,Check,HR
+2024-07-28 23:16:33.974946,Maintenance,10465.63,Credit Card,Marketing
+2024-02-02 23:16:33.974946,Salaries,9764.55,Direct Debit,HR
+2024-02-15 23:16:33.974946,Rent,15900.37,Direct Debit,Marketing
+2023-12-29 23:16:33.974946,Rent,6196.59,Check,Operations
+2024-10-03 23:16:33.974946,Maintenance,4532.22,Credit Card,IT
+2023-12-13 23:16:33.974946,Utilities,16320.21,Credit Card,Marketing
+2024-01-28 23:16:33.974946,Rent,5070.65,Check,Marketing
+2023-11-03 23:16:33.974946,Rent,7855.9,Direct Debit,Finance
+2024-07-09 23:16:33.974946,Salaries,14900.77,Check,IT
+2024-01-16 23:16:33.974946,Utilities,12377.05,Check,Operations
+2024-01-17 23:16:33.974946,Maintenance,17210.95,Credit Card,IT
+2023-12-17 23:16:33.974946,Technology,3660.72,Credit Card,HR
+2024-07-26 23:16:33.974946,Rent,5889.52,Check,IT
+2024-08-09 23:16:33.974946,Salaries,9179.97,Credit Card,IT
+2024-01-30 23:16:33.974946,Salaries,7460.27,Check,Marketing
+2023-12-31 23:16:33.974946,Rent,18672.57,Check,HR
+2024-01-21 23:16:33.974946,Salaries,8819.39,Direct Debit,Finance
+2023-12-23 23:16:33.974946,Utilities,7901.24,Credit Card,Operations
+2023-11-10 23:16:33.974946,Maintenance,1608.11,Check,Marketing
+2024-04-09 23:16:33.974946,Utilities,11448.13,Check,HR
+2024-07-21 23:16:33.974946,Utilities,2432.75,Credit Card,Finance
+2024-08-31 23:16:33.974946,Technology,14342.27,Check,Marketing
+2024-06-03 23:16:33.974946,Utilities,6440.76,Credit Card,IT
+2024-01-29 23:16:33.974946,Utilities,11828.56,Check,Operations
+2023-12-21 23:16:33.974946,Technology,3791.52,Check,Operations
+2024-08-15 23:16:33.974946,Technology,4667.29,Check,Finance
+2024-06-22 23:16:33.974946,Technology,4347.58,Direct Debit,HR
+2024-06-15 23:16:33.974946,Salaries,17369.55,Credit Card,Operations
+2024-05-07 23:16:33.974946,Technology,2871.38,Direct Debit,Finance
+2023-10-11 23:16:33.974946,Rent,14145.73,Credit Card,HR
+2024-04-15 23:16:33.974946,Technology,12495.15,Check,IT
+2024-02-15 23:16:33.974946,Rent,15436.68,Check,Operations
+2024-05-15 23:16:33.974946,Salaries,19391.98,Direct Debit,IT
+2023-12-06 23:16:33.974946,Maintenance,4726.52,Check,Finance
+2024-01-24 23:16:33.974946,Salaries,18266.33,Check,Operations
+2024-07-26 23:16:33.974946,Technology,8196.87,Direct Debit,HR
+2024-09-30 23:16:33.974946,Salaries,5155.09,Check,IT
+2024-08-13 23:16:33.974946,Technology,11089.73,Direct Debit,Marketing
+2024-09-05 23:16:33.974946,Utilities,9915.73,Check,Operations
+2023-10-29 23:16:33.974946,Rent,2040.12,Credit Card,Operations
+2024-05-16 23:16:33.974946,Technology,7868.68,Credit Card,Marketing
+2024-02-07 23:16:33.974946,Rent,12149.63,Check,Finance
+2024-05-26 23:16:33.974946,Rent,7622.52,Direct Debit,IT
+2023-11-09 23:16:33.974946,Rent,18421.31,Check,IT
+2024-06-02 23:16:33.974946,Maintenance,7903.32,Credit Card,Marketing
+2024-08-06 23:16:33.974946,Rent,14043.3,Credit Card,Marketing
+2024-01-08 23:16:33.974946,Maintenance,17704.03,Credit Card,Marketing
+2024-03-16 23:16:33.974946,Utilities,16468.7,Check,Marketing
+2023-10-16 23:16:33.974946,Maintenance,16142.59,Credit Card,HR
+2024-09-21 23:16:33.974946,Rent,8103.25,Credit Card,Finance
+2024-05-16 23:16:33.974946,Maintenance,5890.64,Credit Card,Finance
+2024-07-25 23:16:33.974946,Maintenance,4888.71,Check,IT
+2024-01-16 23:16:33.974946,Maintenance,16538.28,Direct Debit,HR
+2023-11-03 23:16:33.974946,Technology,4827.23,Direct Debit,Operations
+2024-09-20 23:16:33.974946,Rent,6657.86,Check,HR
+2024-02-19 23:16:33.974946,Rent,3720.88,Direct Debit,Finance
+2024-04-02 23:16:33.974946,Rent,15330.79,Credit Card,Operations
+2024-02-01 23:16:33.974946,Maintenance,5244.86,Check,Operations
+2023-10-31 23:16:33.974946,Utilities,13476.78,Direct Debit,Finance
+2023-11-26 23:16:33.974946,Utilities,4350.31,Credit Card,Finance
+2024-07-23 23:16:33.974946,Rent,17968.94,Credit Card,Operations
+2024-03-06 23:16:33.974946,Salaries,17780.69,Check,IT
+2024-03-12 23:16:33.974946,Utilities,19345.91,Credit Card,HR
+2023-10-16 23:16:33.974946,Maintenance,10203.94,Check,IT
+2024-06-11 23:16:33.974946,Rent,1768.91,Credit Card,Marketing
+2024-02-01 23:16:33.974946,Technology,13519.1,Credit Card,Operations
+2024-04-10 23:16:33.974946,Rent,2178.29,Direct Debit,Operations
+2024-06-02 23:16:33.974946,Maintenance,7869.1,Check,Operations
+2023-12-12 23:16:33.974946,Utilities,17562.32,Check,Operations
+2024-08-08 23:16:33.974946,Technology,17972.44,Credit Card,HR
+2024-06-17 23:16:33.974946,Technology,10098.26,Check,Marketing
+2024-08-05 23:16:33.974946,Maintenance,7302.32,Credit Card,HR
+2023-10-14 23:16:33.974946,Maintenance,16000.55,Direct Debit,Marketing
+2024-05-03 23:16:33.974946,Technology,10477.59,Check,Finance
+2024-05-09 23:16:33.974946,Utilities,4992.24,Check,Operations
+2023-12-12 23:16:33.974946,Technology,13485.6,Direct Debit,Marketing
+2024-01-09 23:16:33.974946,Salaries,14193.05,Direct Debit,Marketing
+2024-01-04 23:16:33.974946,Technology,6680.64,Credit Card,Finance
+2023-10-13 23:16:33.974946,Technology,12905.86,Credit Card,Finance
+2023-11-08 23:16:33.974946,Technology,3949.1,Check,Marketing
+2024-02-11 23:16:33.974946,Technology,17231.94,Credit Card,Operations
+2024-01-09 23:16:33.974946,Rent,19296.08,Direct Debit,Marketing
+2023-11-20 23:16:33.974946,Technology,9712.77,Credit Card,Finance
+2024-04-29 23:16:33.974946,Rent,4669.88,Check,IT
+2024-03-20 23:16:33.974946,Utilities,19984.32,Check,IT
+2024-07-27 23:16:33.974946,Technology,6179.99,Credit Card,IT
+2024-02-16 23:16:33.974946,Rent,8106.4,Check,HR
+2024-04-25 23:16:33.974946,Rent,16113.8,Check,IT
+2024-08-04 23:16:33.974946,Rent,11314.43,Check,HR
+2024-06-28 23:16:33.974946,Maintenance,19428.72,Check,IT
+2024-06-01 23:16:33.974946,Rent,5572.62,Direct Debit,IT
+2023-12-12 23:16:33.974946,Rent,18550.43,Check,Operations
+2023-11-01 23:16:33.974946,Maintenance,1705.22,Credit Card,HR
+2024-01-10 23:16:33.974946,Rent,17300.66,Direct Debit,Finance
+2024-03-28 23:16:33.974946,Salaries,16467.11,Credit Card,Finance
+2024-01-26 23:16:33.974946,Maintenance,13766.18,Direct Debit,IT
+2024-09-09 23:16:33.974946,Rent,3172.22,Credit Card,Marketing
+2024-02-10 23:16:33.974946,Utilities,12958.59,Credit Card,Finance
+2024-09-18 23:16:33.974946,Rent,5102.8,Direct Debit,HR
+2023-11-12 23:16:33.974946,Technology,5053.52,Credit Card,Operations
+2023-11-05 23:16:33.974946,Salaries,2472.66,Check,Marketing
+2023-11-28 23:16:33.974946,Technology,10996.01,Direct Debit,Marketing
+2024-04-11 23:16:33.974946,Utilities,8745.55,Credit Card,Marketing
+2024-09-03 23:16:33.974946,Technology,11144.09,Check,Marketing
+2024-02-02 23:16:33.974946,Utilities,3163.34,Check,Marketing
+2023-10-07 23:16:33.974946,Rent,3986.26,Credit Card,HR
+2024-05-05 23:16:33.974946,Utilities,1540.04,Credit Card,Operations
+2023-10-16 23:16:33.974946,Salaries,12867.02,Credit Card,Marketing
+2023-10-10 23:16:33.974946,Maintenance,11771.67,Check,Finance
+2024-09-07 23:16:33.974946,Rent,8862.36,Direct Debit,Finance
+2024-08-19 23:16:33.974946,Utilities,18094.56,Direct Debit,Finance
+2023-11-28 23:16:33.974946,Technology,14931.02,Direct Debit,HR
+2024-10-02 23:16:33.974946,Technology,14101.77,Credit Card,IT
+2024-04-19 23:16:33.974946,Utilities,3697.19,Check,Finance
+2024-05-30 23:16:33.974946,Salaries,14663.88,Check,Marketing
+2024-02-24 23:16:33.974946,Technology,15476.56,Credit Card,Finance
+2024-02-15 23:16:33.974946,Maintenance,1391.42,Credit Card,HR
+2024-03-20 23:16:33.974946,Rent,6007.14,Credit Card,HR
+2024-02-15 23:16:33.974946,Salaries,6855.26,Credit Card,Finance
+2024-05-24 23:16:33.974946,Rent,19172.9,Check,Operations
+2023-12-25 23:16:33.974946,Rent,16027.06,Credit Card,HR
+2024-02-24 23:16:33.974946,Technology,16995.24,Check,Operations
+2023-10-25 23:16:33.974946,Utilities,1416.47,Check,HR
+2024-07-26 23:16:33.974946,Salaries,2142.33,Direct Debit,Operations
+2023-10-16 23:16:33.974946,Rent,5270.24,Credit Card,Operations
+2024-08-16 23:16:33.974946,Rent,7836.04,Check,Operations
+2024-04-10 23:16:33.974946,Utilities,3934.95,Credit Card,Finance
+2023-10-14 23:16:33.974946,Utilities,7627.99,Direct Debit,Finance
+2024-09-24 23:16:33.974946,Utilities,8511.17,Check,Operations
+2024-05-02 23:16:33.974946,Maintenance,19863.45,Credit Card,Finance
+2024-03-31 23:16:33.974946,Utilities,16381.78,Direct Debit,Operations
+2024-05-05 23:16:33.974946,Maintenance,18383.94,Credit Card,Finance
+2024-01-30 23:16:33.974946,Utilities,4871.21,Direct Debit,HR
+2024-08-13 23:16:33.974946,Technology,14536.55,Direct Debit,Operations
+2024-03-07 23:16:33.974946,Salaries,12741.5,Direct Debit,IT
+2024-02-06 23:16:33.974946,Technology,18724.24,Credit Card,Finance
+2024-09-29 23:16:33.974946,Rent,5450.64,Direct Debit,Finance
+2024-02-21 23:16:33.974946,Rent,18273.21,Check,IT
+2024-07-12 23:16:33.974946,Rent,6073.57,Credit Card,Marketing
+2024-05-14 23:16:33.974946,Rent,17548.08,Direct Debit,Finance
+2024-04-08 23:16:33.974946,Maintenance,13453.63,Credit Card,IT
+2024-08-31 23:16:33.974946,Salaries,2131.81,Credit Card,Finance
+2023-12-22 23:16:33.974946,Maintenance,8371.72,Credit Card,Marketing
+2024-05-12 23:16:33.974946,Utilities,9372.18,Check,Operations
+2024-08-11 23:16:33.974946,Technology,10528.84,Credit Card,IT
+2024-09-09 23:16:33.974946,Salaries,12140.63,Credit Card,Finance
+2024-09-27 23:16:33.974946,Maintenance,9497.61,Check,HR
+2024-04-25 23:16:33.974946,Salaries,10157.15,Credit Card,HR
+2024-03-16 23:16:33.974946,Utilities,18468.68,Credit Card,IT
+2024-05-17 23:16:33.974946,Technology,13761.28,Credit Card,IT
+2023-12-22 23:16:33.974946,Rent,1137.18,Direct Debit,IT
+2024-03-07 23:16:33.975951,Salaries,8637.1,Direct Debit,IT
+2024-03-06 23:16:33.975951,Rent,10444.17,Credit Card,Finance
+2024-04-23 23:16:33.975951,Rent,6876.1,Credit Card,IT
+2024-02-08 23:16:33.975951,Salaries,2404.04,Check,HR
+2024-06-15 23:16:33.975951,Rent,16132.55,Direct Debit,IT
+2024-07-07 23:16:33.975951,Salaries,19326.87,Check,Finance
+2024-01-02 23:16:33.975951,Rent,9393.79,Direct Debit,Operations
+2024-08-20 23:16:33.975951,Maintenance,15887.9,Check,IT
+2024-07-11 23:16:33.975951,Rent,2357.65,Direct Debit,HR
+2024-03-20 23:16:33.975951,Rent,18120.98,Check,Marketing
+2024-01-05 23:16:33.975951,Utilities,12113.56,Direct Debit,Finance
+2024-05-17 23:16:33.975951,Salaries,10294.25,Check,HR
+2024-01-14 23:16:33.975951,Utilities,6432.59,Credit Card,HR
+2024-09-09 23:16:33.975951,Technology,19022.48,Direct Debit,Operations
+2023-11-16 23:16:33.975951,Rent,9823.43,Check,Operations
+2024-09-20 23:16:33.975951,Utilities,10784.09,Check,HR
+2024-06-30 23:16:33.975951,Utilities,1848.3,Credit Card,IT
+2024-09-03 23:16:33.975951,Maintenance,14872.16,Check,IT
+2024-01-13 23:16:33.975951,Technology,11535.93,Check,Operations
+2024-08-11 23:16:33.975951,Utilities,11572.64,Check,IT
+2023-12-31 23:16:33.975951,Technology,9176.22,Check,IT
+2023-10-27 23:16:33.975951,Salaries,8766.34,Direct Debit,IT
+2024-01-31 23:16:33.975951,Utilities,19561.47,Check,Operations
+2024-03-07 23:16:33.975951,Maintenance,11182.82,Credit Card,Finance
+2024-02-05 23:16:33.975951,Maintenance,13629.76,Direct Debit,Marketing
+2023-12-26 23:16:33.975951,Utilities,15605.2,Check,IT
+2024-03-12 23:16:33.975951,Technology,17684.32,Credit Card,Operations
+2023-10-14 23:16:33.975951,Salaries,16114.73,Credit Card,Operations
+2023-12-04 23:16:33.975951,Rent,1928.62,Credit Card,IT
+2024-01-30 23:16:33.975951,Utilities,9104.85,Check,HR
+2024-07-09 23:16:33.975951,Salaries,6486.0,Check,Operations
+2024-07-22 23:16:33.975951,Utilities,14014.13,Credit Card,IT
+2024-07-04 23:16:33.975951,Rent,12154.35,Credit Card,IT
+2023-10-24 23:16:33.975951,Salaries,3503.24,Direct Debit,Marketing
+2024-05-20 23:16:33.975951,Rent,3725.81,Direct Debit,Marketing
+2024-03-06 23:16:33.975951,Rent,19990.82,Direct Debit,Marketing
+2024-08-17 23:16:33.975951,Technology,7380.7,Credit Card,HR
+2024-01-10 23:16:33.975951,Technology,11422.61,Direct Debit,Finance
+2024-02-06 23:16:33.975951,Rent,15599.43,Credit Card,Marketing
+2023-10-19 23:16:33.975951,Salaries,17118.06,Direct Debit,Operations
+2023-12-24 23:16:33.975951,Maintenance,11270.14,Credit Card,Marketing
+2024-02-20 23:16:33.975951,Technology,8761.14,Check,IT
+2024-05-04 23:16:33.975951,Rent,12372.1,Check,Marketing
+2024-04-06 23:16:33.975951,Salaries,12784.57,Direct Debit,Finance
+2024-06-23 23:16:33.975951,Rent,7338.47,Credit Card,IT
+2024-08-18 23:16:33.975951,Technology,15350.47,Direct Debit,IT
+2024-05-02 23:16:33.975951,Maintenance,17534.05,Credit Card,Marketing
+2024-03-22 23:16:33.975951,Utilities,1664.66,Direct Debit,IT
+2024-06-23 23:16:33.975951,Utilities,7694.49,Credit Card,IT
+2024-03-16 23:16:33.975951,Salaries,15268.38,Credit Card,HR
+2023-11-27 23:16:33.975951,Salaries,7886.12,Credit Card,HR
+2024-04-04 23:16:33.975951,Salaries,2611.03,Check,HR
+2024-09-30 23:16:33.975951,Technology,5224.05,Check,Marketing
+2024-02-08 23:16:33.975951,Utilities,12874.51,Direct Debit,Operations
+2023-12-15 23:16:33.975951,Utilities,13812.99,Credit Card,Finance
+2024-03-04 23:16:33.975951,Salaries,13852.12,Credit Card,Finance
+2024-07-23 23:16:33.975951,Utilities,2036.56,Credit Card,IT
+2024-09-01 23:16:33.975951,Salaries,3912.62,Direct Debit,HR
+2024-09-21 23:16:33.975951,Utilities,9761.03,Check,Marketing
+2024-02-03 23:16:33.975951,Utilities,17189.46,Check,HR
+2024-02-18 23:16:33.975951,Technology,1330.44,Direct Debit,Operations
+2023-10-18 23:16:33.975951,Salaries,14043.04,Credit Card,IT
+2023-10-25 23:16:33.975951,Technology,14898.71,Direct Debit,HR
+2024-02-02 23:16:33.975951,Salaries,17962.34,Check,IT
+2024-03-02 23:16:33.975951,Salaries,11580.95,Check,Operations
+2024-03-14 23:16:33.975951,Salaries,9414.0,Direct Debit,IT
+2024-01-14 23:16:33.975951,Utilities,17481.01,Check,IT
+2024-06-11 23:16:33.975951,Technology,8438.43,Credit Card,IT
+2024-06-11 23:16:33.975951,Maintenance,19902.12,Credit Card,Finance
+2024-01-20 23:16:33.975951,Utilities,10426.81,Credit Card,Operations
+2024-06-11 23:16:33.975951,Utilities,14696.11,Direct Debit,Finance
+2024-03-08 23:16:33.975951,Utilities,7854.36,Direct Debit,HR
+2023-12-05 23:16:33.975951,Maintenance,17603.29,Direct Debit,IT
+2024-04-29 23:16:33.975951,Maintenance,17104.55,Check,Marketing
+2023-10-29 23:16:33.975951,Rent,12372.08,Check,IT
+2023-11-24 23:16:33.975951,Salaries,19800.23,Direct Debit,Operations
+2024-06-06 23:16:33.975951,Technology,6383.65,Check,Marketing
+2024-09-08 23:16:33.975951,Rent,9673.18,Direct Debit,IT
+2024-09-05 23:16:33.975951,Rent,8567.39,Check,IT
+2024-01-20 23:16:33.975951,Rent,1085.73,Direct Debit,Operations
+2024-08-22 23:16:33.975951,Maintenance,4063.2,Check,Marketing
+2024-06-21 23:16:33.975951,Maintenance,11438.2,Direct Debit,HR
+2024-07-17 23:16:33.975951,Utilities,15013.07,Direct Debit,Operations
+2023-12-21 23:16:33.975951,Technology,11017.56,Check,Finance
+2024-08-16 23:16:33.975951,Rent,17516.25,Direct Debit,Marketing
+2024-04-14 23:16:33.975951,Technology,5188.28,Credit Card,Finance
+2024-10-04 23:16:33.975951,Technology,11699.4,Direct Debit,HR
+2023-12-18 23:16:33.975951,Salaries,7043.3,Check,HR
+2023-11-26 23:16:33.975951,Salaries,5063.27,Direct Debit,IT
+2024-05-13 23:16:33.975951,Maintenance,19578.11,Check,Marketing
+2024-09-07 23:16:33.975951,Utilities,18786.08,Check,HR
+2023-10-28 23:16:33.975951,Rent,18726.16,Check,IT
+2024-06-03 23:16:33.975951,Utilities,13589.2,Direct Debit,IT
+2024-07-15 23:16:33.975951,Maintenance,11834.9,Direct Debit,Finance
+2024-09-30 23:16:33.975951,Salaries,16959.46,Credit Card,IT
+2024-03-09 23:16:33.975951,Maintenance,18005.88,Check,HR
+2024-05-19 23:16:33.975951,Technology,10387.18,Check,Marketing
+2024-05-20 23:16:33.975951,Rent,15894.81,Credit Card,IT
+2024-07-31 23:16:33.975951,Maintenance,1229.91,Direct Debit,IT
+2024-05-09 23:16:33.975951,Rent,6112.98,Credit Card,Operations
+2024-01-31 23:16:33.975951,Rent,3866.76,Direct Debit,HR
+2024-02-20 23:16:33.975951,Maintenance,18270.79,Direct Debit,Operations
+2024-02-02 23:16:33.975951,Utilities,4364.92,Check,Marketing
+2024-02-05 23:16:33.975951,Rent,4476.81,Direct Debit,Marketing
+2023-12-24 23:16:33.975951,Maintenance,13082.34,Credit Card,Finance
+2024-04-09 23:16:33.975951,Maintenance,3476.82,Check,Finance
+2023-12-28 23:16:33.975951,Technology,2288.28,Credit Card,HR
+2023-11-17 23:16:33.975951,Utilities,9762.58,Direct Debit,Finance
+2023-11-14 23:16:33.975951,Rent,5325.25,Check,HR
+2024-07-26 23:16:33.975951,Rent,8230.8,Direct Debit,IT
+2024-06-26 23:16:33.975951,Technology,16528.67,Check,Operations
+2024-03-26 23:16:33.975951,Utilities,12558.47,Credit Card,IT
+2024-09-09 23:16:33.975951,Rent,19821.94,Check,Finance
+2024-07-16 23:16:33.975951,Maintenance,9702.53,Credit Card,IT
+2024-08-13 23:16:33.975951,Salaries,12216.97,Credit Card,Finance
+2024-07-17 23:16:33.975951,Utilities,2146.54,Credit Card,Marketing
+2024-08-11 23:16:33.975951,Maintenance,15990.64,Direct Debit,HR
+2024-05-03 23:16:33.975951,Rent,15007.81,Check,Marketing
+2024-03-21 23:16:33.975951,Utilities,19531.79,Credit Card,IT
+2024-07-21 23:16:33.975951,Rent,17493.61,Credit Card,Operations
+2024-02-20 23:16:33.975951,Rent,17849.2,Direct Debit,IT
+2023-10-31 23:16:33.975951,Technology,9900.52,Check,Finance
+2024-07-06 23:16:33.975951,Maintenance,17748.96,Credit Card,Marketing
+2024-04-17 23:16:33.975951,Utilities,15832.11,Credit Card,Marketing
+2024-02-10 23:16:33.975951,Utilities,10165.79,Check,Operations
+2024-07-04 23:16:33.975951,Technology,11999.74,Credit Card,Operations
+2023-12-22 23:16:33.975951,Technology,17653.39,Check,Finance
+2024-02-25 23:16:33.975951,Technology,2786.98,Direct Debit,Operations
+2024-04-14 23:16:33.975951,Salaries,1024.29,Credit Card,Operations
+2024-02-03 23:16:33.975951,Salaries,12711.05,Credit Card,Operations
+2023-12-13 23:16:33.975951,Technology,5140.89,Credit Card,HR
+2024-07-14 23:16:33.975951,Technology,19941.45,Check,Marketing
+2024-05-07 23:16:33.975951,Maintenance,13465.99,Direct Debit,IT
+2024-02-26 23:16:33.975951,Technology,8849.73,Credit Card,Marketing
+2024-09-07 23:16:33.975951,Utilities,13533.36,Credit Card,HR
+2024-02-01 23:16:33.975951,Rent,17045.87,Direct Debit,IT
+2024-06-16 23:16:33.975951,Rent,1356.16,Direct Debit,Finance
+2024-05-23 23:16:33.975951,Maintenance,5697.82,Check,IT
+2024-01-19 23:16:33.975951,Technology,8547.95,Direct Debit,HR
+2024-05-25 23:16:33.975951,Maintenance,8628.76,Check,IT
+2024-09-28 23:16:33.975951,Technology,11118.79,Credit Card,HR
+2023-11-11 23:16:33.975951,Utilities,15542.64,Direct Debit,Operations
+2024-06-23 23:16:33.975951,Salaries,7448.83,Direct Debit,Operations
+2024-02-12 23:16:33.975951,Technology,6369.71,Credit Card,HR
+2023-12-02 23:16:33.975951,Utilities,19921.32,Check,Marketing
+2024-04-08 23:16:33.975951,Rent,8363.82,Check,Operations
+2024-08-31 23:16:33.975951,Maintenance,3565.51,Check,Finance
+2024-06-02 23:16:33.975951,Maintenance,8442.74,Check,IT
+2024-07-20 23:16:33.975951,Salaries,18960.13,Check,IT
+2023-10-18 23:16:33.975951,Utilities,16279.51,Direct Debit,HR
+2024-04-01 23:16:33.975951,Technology,1735.32,Credit Card,Finance
+2023-12-14 23:16:33.975951,Maintenance,15566.04,Check,IT
+2024-03-04 23:16:33.975951,Salaries,10393.91,Check,IT
+2024-09-08 23:16:33.975951,Utilities,10536.38,Credit Card,Marketing
+2024-07-29 23:16:33.975951,Rent,9107.68,Direct Debit,IT
+2024-07-04 23:16:33.975951,Utilities,8004.63,Direct Debit,Operations
+2024-08-21 23:16:33.975951,Rent,11810.62,Check,Marketing
+2024-01-01 23:16:33.975951,Technology,8307.17,Check,IT
+2024-03-25 23:16:33.975951,Rent,9036.33,Check,HR
+2023-10-24 23:16:33.975951,Technology,6128.01,Direct Debit,Marketing
+2024-03-01 23:16:33.975951,Utilities,2118.21,Direct Debit,Finance
+2024-09-11 23:16:33.975951,Rent,17053.58,Credit Card,Finance
+2024-01-19 23:16:33.975951,Utilities,14502.79,Credit Card,Operations
+2024-08-07 23:16:33.975951,Utilities,3987.62,Direct Debit,Finance
+2024-02-24 23:16:33.975951,Technology,9183.18,Credit Card,Operations
+2024-04-08 23:16:33.975951,Salaries,3137.83,Credit Card,Operations
+2023-10-26 23:16:33.975951,Maintenance,13228.18,Check,Marketing
+2024-09-06 23:16:33.975951,Utilities,6771.37,Credit Card,Marketing
+2024-02-18 23:16:33.975951,Maintenance,1042.7,Credit Card,Marketing
+2024-04-13 23:16:33.975951,Utilities,13547.69,Credit Card,Marketing
+2024-04-07 23:16:33.975951,Salaries,1657.86,Credit Card,Marketing
+2024-10-02 23:16:33.975951,Technology,8113.54,Direct Debit,Operations
+2023-12-25 23:16:33.975951,Utilities,6456.21,Direct Debit,IT
+2024-08-19 23:16:33.975951,Rent,9064.08,Check,Marketing
+2024-08-31 23:16:33.975951,Utilities,19588.8,Check,Operations
+2024-06-30 23:16:33.975951,Technology,9542.07,Credit Card,Marketing
+2023-12-01 23:16:33.975951,Salaries,18914.11,Direct Debit,HR
+2024-07-27 23:16:33.975951,Utilities,11271.28,Credit Card,Marketing
+2023-10-21 23:16:33.975951,Technology,6634.11,Direct Debit,Finance
+2024-07-20 23:16:33.975951,Maintenance,2049.99,Direct Debit,Finance
+2024-01-26 23:16:33.975951,Technology,15921.11,Credit Card,Operations
+2024-08-30 23:16:33.975951,Technology,16330.27,Direct Debit,Finance
+2024-02-20 23:16:33.975951,Technology,16117.58,Direct Debit,IT
+2024-06-30 23:16:33.975951,Rent,2403.58,Credit Card,HR
+2024-06-11 23:16:33.975951,Rent,11520.69,Credit Card,Operations
+2024-03-13 23:16:33.975951,Salaries,1837.89,Check,IT
+2024-07-30 23:16:33.975951,Rent,10028.31,Direct Debit,IT
+2024-03-21 23:16:33.975951,Utilities,9536.25,Check,HR
+2024-04-29 23:16:33.975951,Salaries,7932.94,Credit Card,IT
+2024-05-30 23:16:33.975951,Rent,13535.23,Credit Card,Operations
+2024-03-06 23:16:33.975951,Rent,18940.3,Credit Card,IT
+2023-10-29 23:16:33.975951,Rent,8000.49,Check,Finance
+2024-06-04 23:16:33.975951,Utilities,1379.77,Credit Card,IT
+2024-06-05 23:16:33.975951,Utilities,2395.58,Credit Card,HR
+2024-07-25 23:16:33.975951,Technology,11281.05,Credit Card,Operations
+2023-12-15 23:16:33.975951,Rent,14487.57,Check,Operations
+2024-09-30 23:16:33.975951,Salaries,4290.99,Credit Card,Operations
+2024-09-07 23:16:33.975951,Utilities,3100.45,Credit Card,HR
+2024-04-04 23:16:33.975951,Rent,1434.65,Credit Card,IT
+2023-10-18 23:16:33.975951,Maintenance,12913.16,Check,IT
+2023-10-22 23:16:33.975951,Salaries,12187.84,Direct Debit,Finance
+2024-06-16 23:16:33.975951,Salaries,2056.34,Check,Operations
+2024-09-18 23:16:33.975951,Maintenance,10862.05,Direct Debit,Marketing
+2024-02-12 23:16:33.975951,Technology,13817.66,Direct Debit,HR
+2023-11-17 23:16:33.975951,Utilities,14738.23,Credit Card,IT
+2024-05-17 23:16:33.975951,Technology,10550.57,Check,HR
+2024-08-08 23:16:33.975951,Maintenance,11142.59,Credit Card,Finance
+2023-11-02 23:16:33.975951,Maintenance,14002.06,Credit Card,Finance
+2024-01-11 23:16:33.975951,Salaries,19037.75,Check,HR
+2023-12-23 23:16:33.975951,Rent,2352.41,Check,HR
+2024-06-15 23:16:33.975951,Technology,8241.52,Direct Debit,Marketing
+2023-11-24 23:16:33.975951,Rent,17683.52,Check,Operations
+2024-05-11 23:16:33.975951,Maintenance,15641.05,Credit Card,Finance
+2024-09-02 23:16:33.975951,Salaries,17134.29,Check,Operations
+2024-08-06 23:16:33.975951,Salaries,17248.73,Credit Card,Marketing
+2023-10-06 23:16:33.975951,Rent,7437.26,Direct Debit,IT
+2023-12-11 23:16:33.975951,Rent,5246.91,Direct Debit,Finance
+2023-12-31 23:16:33.975951,Salaries,8092.09,Credit Card,Finance
+2024-08-18 23:16:33.975951,Salaries,12292.92,Check,Marketing
+2024-06-23 23:16:33.975951,Utilities,14201.89,Credit Card,HR
+2024-04-05 23:16:33.975951,Maintenance,11291.95,Check,IT
+2023-10-30 23:16:33.975951,Salaries,10365.76,Credit Card,Finance
+2024-07-05 23:16:33.975951,Utilities,15950.43,Direct Debit,HR
+2024-07-07 23:16:33.975951,Rent,2771.36,Direct Debit,Operations
+2023-12-22 23:16:33.975951,Utilities,5393.54,Credit Card,Finance
+2024-04-08 23:16:33.975951,Maintenance,13127.51,Check,Marketing
+2024-06-10 23:16:33.975951,Utilities,4854.37,Check,Marketing
+2023-10-28 23:16:33.975951,Technology,13469.91,Direct Debit,Operations
+2024-04-23 23:16:33.975951,Utilities,11087.88,Check,IT
+2023-12-12 23:16:33.975951,Salaries,3339.94,Check,Marketing
+2024-06-06 23:16:33.975951,Utilities,17433.17,Check,Finance
+2024-04-11 23:16:33.975951,Salaries,12583.6,Direct Debit,Finance
+2023-11-04 23:16:33.975951,Utilities,4794.93,Direct Debit,Marketing
+2024-04-16 23:16:33.975951,Utilities,17568.59,Direct Debit,IT
+2024-03-01 23:16:33.975951,Maintenance,6433.76,Direct Debit,Operations
+2023-10-14 23:16:33.975951,Technology,6469.35,Credit Card,Operations
+2024-06-04 23:16:33.975951,Technology,10018.94,Check,Operations
+2024-02-17 23:16:33.975951,Utilities,12879.48,Check,Marketing
+2023-11-03 23:16:33.975951,Rent,12274.5,Credit Card,Marketing
+2024-03-23 23:16:33.975951,Salaries,1883.68,Direct Debit,Marketing
+2024-05-17 23:16:33.975951,Utilities,12065.16,Credit Card,HR
+2023-10-31 23:16:33.975951,Salaries,15116.01,Direct Debit,Finance
+2024-04-14 23:16:33.975951,Rent,18245.77,Credit Card,HR
+2023-12-25 23:16:33.975951,Maintenance,11537.02,Credit Card,HR
+2024-03-11 23:16:33.975951,Utilities,12450.53,Direct Debit,IT
+2024-04-22 23:16:33.975951,Maintenance,9871.43,Direct Debit,Finance
+2023-11-12 23:16:33.975951,Maintenance,6485.67,Credit Card,Finance
+2023-12-07 23:16:33.975951,Rent,15159.97,Check,IT
+2024-01-13 23:16:33.975951,Utilities,19618.68,Check,Finance
+2023-12-03 23:16:33.975951,Utilities,6692.42,Credit Card,IT
+2024-05-05 23:16:33.975951,Salaries,7728.32,Direct Debit,IT
+2024-01-02 23:16:33.975951,Utilities,10595.9,Direct Debit,IT
+2024-07-14 23:16:33.975951,Utilities,15820.34,Credit Card,Operations
+2024-07-27 23:16:33.975951,Rent,13528.59,Check,IT
+2024-02-28 23:16:33.975951,Rent,5985.49,Check,Finance
+2024-06-12 23:16:33.975951,Maintenance,5801.65,Direct Debit,Operations
+2024-09-02 23:16:33.975951,Utilities,17675.91,Credit Card,Marketing
+2023-12-09 23:16:33.975951,Rent,12509.42,Direct Debit,Marketing
+2024-05-29 23:16:33.975951,Salaries,14309.24,Credit Card,IT
+2024-02-03 23:16:33.975951,Utilities,4214.76,Direct Debit,Operations
+2024-01-12 23:16:33.975951,Rent,3394.45,Credit Card,Marketing
+2023-11-05 23:16:33.975951,Salaries,18444.19,Check,IT
+2023-10-24 23:16:33.975951,Maintenance,17190.14,Check,HR
+2023-11-03 23:16:33.975951,Technology,6741.96,Check,Finance
+2024-02-01 23:16:33.975951,Salaries,1013.82,Direct Debit,IT
+2023-11-27 23:16:33.975951,Maintenance,5995.07,Credit Card,Marketing
+2024-06-04 23:16:33.975951,Salaries,14115.99,Direct Debit,HR
+2024-03-09 23:16:33.975951,Utilities,7894.52,Check,HR
+2023-10-19 23:16:33.975951,Technology,17733.74,Credit Card,HR
+2024-04-14 23:16:33.975951,Technology,15441.42,Credit Card,IT
+2024-07-30 23:16:33.975951,Maintenance,5750.98,Check,HR
+2024-02-11 23:16:33.975951,Maintenance,11365.05,Direct Debit,HR
+2024-09-07 23:16:33.975951,Rent,15360.39,Direct Debit,Operations
+2024-02-03 23:16:33.975951,Rent,11064.67,Credit Card,Operations
+2024-06-28 23:16:33.975951,Salaries,18309.4,Direct Debit,IT
+2023-12-24 23:16:33.975951,Salaries,7555.73,Direct Debit,Finance
+2024-08-24 23:16:33.975951,Rent,6117.28,Check,IT
+2024-01-15 23:16:33.975951,Utilities,15446.71,Direct Debit,IT
+2024-01-05 23:16:33.975951,Maintenance,19356.78,Credit Card,Finance
+2024-05-12 23:16:33.975951,Rent,7743.12,Check,Finance
+2024-06-28 23:16:33.975951,Rent,11864.22,Direct Debit,Operations
+2024-08-31 23:16:33.975951,Utilities,8716.08,Direct Debit,Marketing
+2023-11-17 23:16:33.975951,Technology,1631.25,Credit Card,Operations
+2023-12-28 23:16:33.975951,Salaries,18100.44,Direct Debit,IT
+2024-06-05 23:16:33.975951,Utilities,18292.92,Credit Card,Operations
+2024-01-14 23:16:33.975951,Technology,4973.5,Direct Debit,Marketing
+2024-05-12 23:16:33.975951,Utilities,13848.84,Direct Debit,Operations
+2024-01-27 23:16:33.975951,Utilities,7304.19,Check,HR
+2023-12-21 23:16:33.975951,Rent,13887.29,Check,Marketing
+2024-03-02 23:16:33.975951,Utilities,4653.51,Check,IT
+2023-10-24 23:16:33.975951,Utilities,6003.75,Check,HR
+2024-07-19 23:16:33.975951,Maintenance,11969.19,Check,Operations
+2024-08-02 23:16:33.975951,Technology,18760.8,Check,Finance
+2023-11-10 23:16:33.975951,Technology,3871.7,Direct Debit,Marketing
+2024-05-10 23:16:33.975951,Technology,17357.89,Direct Debit,IT
+2024-02-16 23:16:33.975951,Technology,2536.21,Check,Finance
+2024-05-06 23:16:33.975951,Rent,17250.06,Credit Card,IT
+2023-10-29 23:16:33.975951,Utilities,19733.42,Credit Card,HR
+2024-08-26 23:16:33.975951,Maintenance,15909.53,Credit Card,Marketing
+2024-06-02 23:16:33.975951,Technology,17891.6,Direct Debit,HR
+2023-10-08 23:16:33.975951,Maintenance,8652.46,Credit Card,Finance
+2024-01-31 23:16:33.975951,Rent,8178.07,Direct Debit,Marketing
+2023-10-06 23:16:33.975951,Rent,7010.32,Check,IT
+2024-02-15 23:16:33.975951,Maintenance,6028.4,Direct Debit,HR
+2024-01-27 23:16:33.975951,Salaries,10896.07,Credit Card,HR
+2024-08-28 23:16:33.975951,Rent,13405.33,Check,Marketing
+2024-07-16 23:16:33.975951,Utilities,3776.44,Direct Debit,Marketing
+2024-03-07 23:16:33.975951,Salaries,2932.08,Check,IT
+2023-11-26 23:16:33.975951,Salaries,12989.4,Credit Card,IT
+2024-07-04 23:16:33.975951,Salaries,17250.25,Direct Debit,IT
+2024-07-31 23:16:33.975951,Maintenance,5718.85,Check,IT
+2024-07-01 23:16:33.975951,Rent,13219.39,Check,HR
+2023-11-17 23:16:33.975951,Salaries,17854.32,Check,IT
+2024-06-08 23:16:33.975951,Maintenance,5849.4,Check,Marketing
+2024-01-20 23:16:33.975951,Maintenance,6627.49,Direct Debit,Finance
+2024-09-05 23:16:33.975951,Technology,13811.56,Credit Card,Finance
+2024-07-06 23:16:33.975951,Salaries,1772.06,Check,HR
+2024-02-16 23:16:33.975951,Technology,16259.24,Credit Card,Operations
+2024-04-10 23:16:33.975951,Technology,10680.12,Credit Card,IT
+2024-05-13 23:16:33.975951,Maintenance,17739.82,Check,Operations
+2023-12-05 23:16:33.975951,Rent,19155.3,Direct Debit,IT
+2024-09-13 23:16:33.975951,Salaries,14810.3,Credit Card,IT
+2023-12-07 23:16:33.975951,Technology,7169.84,Direct Debit,Finance
+2024-05-19 23:16:33.975951,Salaries,11184.25,Credit Card,Marketing
+2024-08-09 23:16:33.975951,Technology,7982.81,Credit Card,HR
+2024-03-17 23:16:33.975951,Maintenance,4240.29,Direct Debit,IT
+2024-06-28 23:16:33.975951,Maintenance,13268.44,Direct Debit,Operations
+2024-07-14 23:16:33.975951,Salaries,8169.67,Check,IT
+2023-10-22 23:16:33.975951,Utilities,6870.28,Credit Card,Marketing
+2023-12-11 23:16:33.975951,Rent,16463.22,Credit Card,Finance
+2023-12-25 23:16:33.975951,Rent,3199.63,Credit Card,Marketing
+2024-01-05 23:16:33.975951,Salaries,12303.03,Direct Debit,Marketing
+2023-11-01 23:16:33.975951,Utilities,1751.42,Credit Card,IT
+2024-08-07 23:16:33.975951,Maintenance,6121.14,Check,Finance
+2024-05-13 23:16:33.975951,Technology,3928.89,Credit Card,Finance
+2024-01-10 23:16:33.975951,Utilities,11304.42,Credit Card,IT
+2024-03-08 23:16:33.975951,Utilities,3874.62,Credit Card,HR
+2023-12-20 23:16:33.975951,Technology,10717.6,Direct Debit,Finance
+2024-06-12 23:16:33.975951,Maintenance,7370.53,Check,HR
+2024-07-27 23:16:33.975951,Salaries,13213.06,Direct Debit,Marketing
+2024-07-03 23:16:33.975951,Maintenance,18313.23,Credit Card,Finance
+2024-08-18 23:16:33.975951,Maintenance,15545.44,Direct Debit,Operations
+2023-10-17 23:16:33.975951,Technology,3867.15,Credit Card,IT
+2023-10-23 23:16:33.975951,Salaries,9065.92,Credit Card,Marketing
+2024-01-04 23:16:33.975951,Technology,15233.84,Check,IT
+2024-04-14 23:16:33.975951,Maintenance,3026.43,Credit Card,Marketing
+2024-09-03 23:16:33.975951,Technology,16902.31,Check,Operations
+2023-12-20 23:16:33.975951,Technology,14115.28,Credit Card,Marketing
+2023-10-10 23:16:33.975951,Utilities,12695.57,Check,Finance
+2024-02-17 23:16:33.976951,Maintenance,15875.03,Check,Operations
+2023-11-26 23:16:33.976951,Rent,5150.54,Credit Card,Marketing
+2024-07-25 23:16:33.976951,Salaries,14984.38,Credit Card,Finance
+2024-08-01 23:16:33.976951,Rent,5643.63,Check,IT
+2024-09-15 23:16:33.976951,Maintenance,19153.56,Credit Card,Marketing
+2024-02-29 23:16:33.976951,Maintenance,2271.11,Credit Card,Operations
+2024-01-26 23:16:33.976951,Salaries,5648.75,Credit Card,Finance
+2024-05-31 23:16:33.976951,Maintenance,10836.69,Check,Finance
+2024-01-17 23:16:33.976951,Rent,16091.07,Direct Debit,Finance
+2024-02-02 23:16:33.976951,Maintenance,4157.94,Check,Marketing
+2024-08-04 23:16:33.976951,Rent,9050.98,Credit Card,Finance
+2024-09-11 23:16:33.976951,Utilities,14891.72,Direct Debit,Operations
+2023-11-08 23:16:33.976951,Utilities,9103.44,Credit Card,Operations
+2024-07-05 23:16:33.976951,Salaries,11477.38,Direct Debit,IT
+2024-08-22 23:16:33.976951,Utilities,13520.89,Check,Operations
+2024-02-12 23:16:33.976951,Maintenance,13184.35,Check,HR
+2023-12-14 23:16:33.976951,Maintenance,15161.58,Credit Card,HR
+2023-10-17 23:16:33.976951,Salaries,11033.75,Credit Card,Operations
+2024-05-28 23:16:33.976951,Technology,13352.84,Credit Card,IT
+2023-12-24 23:16:33.976951,Maintenance,2598.99,Direct Debit,Operations
+2024-08-20 23:16:33.976951,Maintenance,15992.99,Credit Card,Operations
+2024-02-05 23:16:33.976951,Maintenance,16859.13,Credit Card,IT
+2024-04-16 23:16:33.976951,Rent,6713.05,Check,Finance
+2024-05-08 23:16:33.976951,Maintenance,11868.73,Check,Finance
+2024-08-18 23:16:33.976951,Utilities,12680.08,Credit Card,HR
+2024-03-30 23:16:33.976951,Technology,14514.28,Credit Card,Operations
+2023-12-13 23:16:33.976951,Maintenance,4426.75,Check,Operations
+2024-03-24 23:16:33.976951,Salaries,4035.96,Check,HR
+2024-05-04 23:16:33.976951,Rent,2106.9,Direct Debit,Operations
+2023-11-12 23:16:33.976951,Salaries,11225.61,Credit Card,Finance
+2024-03-25 23:16:33.976951,Maintenance,13784.89,Check,Finance
+2024-09-12 23:16:33.976951,Technology,19496.27,Direct Debit,HR
+2024-06-04 23:16:33.976951,Utilities,1376.0,Direct Debit,Marketing
+2024-08-06 23:16:33.976951,Technology,13537.71,Direct Debit,IT
+2024-01-27 23:16:33.976951,Technology,16445.85,Direct Debit,Marketing
+2023-12-21 23:16:33.976951,Rent,11354.59,Direct Debit,Finance
+2024-06-22 23:16:33.976951,Maintenance,9802.57,Credit Card,HR
+2024-09-14 23:16:33.976951,Technology,19781.45,Direct Debit,Marketing
+2024-05-10 23:16:33.976951,Maintenance,19794.62,Direct Debit,Operations
+2024-01-24 23:16:33.976951,Rent,18062.03,Check,Marketing
+2024-02-19 23:16:33.976951,Maintenance,17315.73,Credit Card,IT
+2023-11-12 23:16:33.976951,Salaries,16434.23,Check,HR
+2024-02-06 23:16:33.976951,Maintenance,6417.66,Check,Marketing
+2024-08-10 23:16:33.976951,Maintenance,19945.31,Direct Debit,Operations
+2024-06-30 23:16:33.976951,Rent,1813.15,Direct Debit,Finance
+2024-09-25 23:16:33.976951,Utilities,1204.54,Credit Card,Marketing
+2024-07-02 23:16:33.976951,Maintenance,19308.57,Credit Card,HR
+2024-08-06 23:16:33.976951,Salaries,3991.91,Credit Card,Marketing
+2024-03-20 23:16:33.976951,Salaries,10598.51,Direct Debit,IT
+2024-01-27 23:16:33.976951,Technology,3229.86,Direct Debit,HR
+2024-02-26 23:16:33.976951,Rent,6850.67,Credit Card,HR
+2024-08-13 23:16:33.976951,Maintenance,11054.94,Direct Debit,Finance
+2023-12-06 23:16:33.976951,Technology,13111.15,Credit Card,Operations
+2024-05-03 23:16:33.976951,Salaries,14045.68,Direct Debit,IT
+2023-12-18 23:16:33.976951,Salaries,17255.61,Check,Finance
+2024-09-09 23:16:33.976951,Salaries,1225.91,Direct Debit,Marketing
+2023-12-01 23:16:33.976951,Salaries,17136.53,Direct Debit,HR
+2024-03-17 23:16:33.976951,Maintenance,17832.28,Credit Card,Finance
+2024-02-28 23:16:33.976951,Maintenance,18312.87,Credit Card,HR
+2024-07-04 23:16:33.976951,Utilities,17364.29,Direct Debit,Operations
+2024-05-22 23:16:33.976951,Technology,5167.76,Direct Debit,Marketing
+2023-12-12 23:16:33.976951,Maintenance,8990.14,Direct Debit,Marketing
+2024-10-01 23:16:33.976951,Maintenance,11146.8,Check,Operations
+2023-10-08 23:16:33.976951,Rent,3094.54,Direct Debit,Operations
+2024-07-05 23:16:33.976951,Salaries,11716.95,Direct Debit,IT
+2024-05-07 23:16:33.976951,Salaries,13766.32,Credit Card,Finance
+2024-09-22 23:16:33.976951,Utilities,3733.83,Check,HR
+2023-10-06 23:16:33.976951,Utilities,6922.82,Check,IT
+2024-01-06 23:16:33.976951,Technology,7769.97,Credit Card,IT
+2024-02-11 23:16:33.976951,Salaries,2513.46,Check,Marketing
+2023-11-18 23:16:33.976951,Maintenance,2339.61,Check,IT
+2024-06-09 23:16:33.976951,Salaries,11232.76,Direct Debit,IT
+2024-09-02 23:16:33.976951,Maintenance,2057.96,Direct Debit,IT
+2024-08-23 23:16:33.976951,Maintenance,17505.11,Direct Debit,IT
+2023-11-04 23:16:33.976951,Salaries,3972.55,Direct Debit,IT
+2024-07-19 23:16:33.976951,Utilities,9428.19,Direct Debit,Marketing
+2024-09-02 23:16:33.976951,Salaries,17916.5,Check,IT
+2024-09-03 23:16:33.976951,Salaries,11640.04,Check,Finance
+2024-04-28 23:16:33.976951,Technology,15625.22,Direct Debit,Operations
+2024-05-07 23:16:33.976951,Utilities,11735.62,Check,IT
+2024-04-21 23:16:33.976951,Maintenance,12003.21,Direct Debit,Marketing
+2024-02-21 23:16:33.976951,Technology,15365.49,Direct Debit,HR
+2024-10-04 23:16:33.976951,Maintenance,10971.31,Credit Card,HR
+2024-01-23 23:16:33.976951,Salaries,10689.49,Credit Card,Marketing
+2024-06-17 23:16:33.976951,Salaries,9414.4,Direct Debit,Marketing
+2024-04-01 23:16:33.976951,Maintenance,9460.82,Check,Operations
+2024-02-02 23:16:33.976951,Rent,14078.26,Credit Card,HR
+2023-11-14 23:16:33.976951,Maintenance,18208.32,Direct Debit,Finance
+2024-04-20 23:16:33.976951,Rent,5949.31,Direct Debit,Marketing
+2024-04-18 23:16:33.976951,Maintenance,18758.74,Direct Debit,Marketing
+2024-08-08 23:16:33.976951,Salaries,5489.76,Credit Card,Marketing
+2024-08-09 23:16:33.976951,Maintenance,11359.69,Check,HR
+2024-07-23 23:16:33.976951,Salaries,17446.45,Credit Card,Operations
+2024-07-02 23:16:33.976951,Utilities,17765.78,Direct Debit,Finance
+2023-10-12 23:16:33.976951,Maintenance,19198.01,Direct Debit,HR
+2024-07-17 23:16:33.976951,Utilities,18477.02,Credit Card,Operations
+2024-05-14 23:16:33.976951,Maintenance,11677.17,Check,IT
+2023-12-11 23:16:33.976951,Utilities,18408.67,Credit Card,Finance
+2024-01-17 23:16:33.976951,Rent,9852.21,Direct Debit,Marketing
+2024-02-03 23:16:33.976951,Rent,3892.23,Credit Card,HR
+2024-01-17 23:16:33.976951,Maintenance,14399.9,Credit Card,Finance
+2024-05-15 23:16:33.976951,Maintenance,4038.45,Check,Marketing
+2024-07-02 23:16:33.976951,Maintenance,11338.07,Credit Card,Marketing
+2024-08-26 23:16:33.976951,Salaries,11167.85,Credit Card,IT
+2024-03-09 23:16:33.976951,Utilities,10871.11,Check,HR
+2024-03-05 23:16:33.976951,Technology,16817.53,Check,Marketing
+2024-08-15 23:16:33.976951,Maintenance,13345.89,Direct Debit,HR
+2023-11-06 23:16:33.976951,Maintenance,17672.35,Credit Card,IT
+2024-08-23 23:16:33.976951,Maintenance,1314.99,Check,IT
+2024-05-14 23:16:33.976951,Utilities,2347.77,Direct Debit,HR
+2024-03-12 23:16:33.976951,Technology,16138.22,Credit Card,HR
+2024-03-24 23:16:33.976951,Maintenance,18774.18,Direct Debit,Marketing
+2023-10-30 23:16:33.976951,Maintenance,1103.09,Credit Card,IT
+2023-12-01 23:16:33.976951,Utilities,3828.04,Check,Marketing
+2024-01-01 23:16:33.976951,Technology,11413.29,Check,IT
+2023-12-26 23:16:33.976951,Maintenance,14505.78,Credit Card,HR
+2024-01-16 23:16:33.976951,Maintenance,9223.04,Credit Card,Operations
+2024-03-11 23:16:33.976951,Technology,2903.0,Check,Operations
+2024-07-10 23:16:33.976951,Utilities,6383.61,Check,HR
+2024-06-11 23:16:33.976951,Utilities,16863.56,Check,IT
+2024-04-07 23:16:33.976951,Technology,16063.82,Direct Debit,Finance
+2023-11-24 23:16:33.976951,Rent,18635.48,Direct Debit,Finance
+2024-02-29 23:16:33.976951,Rent,9373.99,Direct Debit,Operations
+2024-06-21 23:16:33.976951,Rent,11502.85,Credit Card,Marketing
+2024-08-13 23:16:33.976951,Rent,12913.17,Direct Debit,Marketing
+2023-10-24 23:16:33.976951,Rent,14552.57,Direct Debit,Finance
+2024-09-03 23:16:33.976951,Utilities,4068.52,Direct Debit,HR
+2024-06-01 23:16:33.976951,Maintenance,17109.06,Direct Debit,IT
+2024-02-18 23:16:33.976951,Utilities,2610.41,Direct Debit,Finance
+2023-12-02 23:16:33.976951,Rent,16715.37,Direct Debit,HR
+2024-06-30 23:16:33.976951,Maintenance,16177.48,Direct Debit,IT
+2024-06-18 23:16:33.976951,Technology,5692.68,Credit Card,Finance
+2023-10-26 23:16:33.976951,Maintenance,13774.31,Direct Debit,Marketing
+2024-07-18 23:16:33.976951,Technology,8595.49,Check,Finance
+2024-01-01 23:16:33.976951,Salaries,16291.21,Direct Debit,Finance
+2024-07-22 23:16:33.976951,Salaries,16312.57,Check,IT
+2024-03-02 23:16:33.976951,Technology,3352.55,Credit Card,Marketing
+2024-04-10 23:16:33.976951,Rent,7507.33,Credit Card,Operations
+2024-06-18 23:16:33.976951,Salaries,6374.86,Direct Debit,Marketing
+2024-03-26 23:16:33.976951,Technology,14730.27,Check,Finance
+2023-11-28 23:16:33.976951,Maintenance,3063.62,Direct Debit,Operations
+2024-07-14 23:16:33.976951,Salaries,1176.39,Credit Card,Finance
+2024-05-14 23:16:33.976951,Maintenance,1704.49,Credit Card,IT
+2024-04-12 23:16:33.976951,Maintenance,13295.63,Check,HR
+2023-10-30 23:16:33.976951,Rent,9863.58,Direct Debit,IT
+2024-01-15 23:16:33.976951,Utilities,12992.65,Credit Card,Finance
+2024-03-17 23:16:33.976951,Maintenance,15113.66,Check,Finance
+2024-01-16 23:16:33.976951,Rent,2401.98,Credit Card,Marketing
+2024-04-01 23:16:33.976951,Utilities,8160.79,Credit Card,IT
+2024-04-07 23:16:33.976951,Maintenance,13670.88,Direct Debit,Marketing
+2024-03-19 23:16:33.976951,Salaries,6659.48,Direct Debit,Operations
+2024-09-14 23:16:33.976951,Rent,16076.29,Direct Debit,IT
+2024-08-26 23:16:33.976951,Technology,19614.98,Check,IT
+2024-08-04 23:16:33.976951,Rent,16994.71,Credit Card,Operations
+2024-01-19 23:16:33.976951,Salaries,19041.42,Direct Debit,Marketing
+2024-02-02 23:16:33.976951,Maintenance,18116.28,Credit Card,Marketing
+2024-09-01 23:16:33.976951,Salaries,16757.42,Direct Debit,Marketing
+2023-10-22 23:16:33.976951,Utilities,13970.96,Direct Debit,IT
+2024-03-20 23:16:33.976951,Utilities,4932.08,Credit Card,IT
+2024-05-27 23:16:33.976951,Maintenance,10004.39,Credit Card,IT
+2024-04-28 23:16:33.976951,Utilities,1220.99,Credit Card,Operations
+2024-09-18 23:16:33.976951,Salaries,4698.45,Direct Debit,Finance
+2024-10-04 23:16:33.976951,Maintenance,18372.81,Check,IT
+2024-08-30 23:16:33.976951,Salaries,1409.1,Direct Debit,HR
+2024-04-14 23:16:33.976951,Rent,4298.97,Credit Card,HR
+2023-11-14 23:16:33.976951,Maintenance,19759.46,Credit Card,Operations
+2024-04-22 23:16:33.976951,Rent,18261.3,Check,IT
+2023-12-08 23:16:33.976951,Salaries,9792.57,Direct Debit,HR
+2024-04-26 23:16:33.976951,Maintenance,13031.38,Check,Finance
+2024-07-06 23:16:33.976951,Utilities,18766.88,Credit Card,Finance
+2024-02-08 23:16:33.976951,Maintenance,6083.45,Check,Operations
+2024-02-14 23:16:33.976951,Salaries,19697.36,Check,HR
+2024-09-12 23:16:33.976951,Utilities,6999.6,Direct Debit,IT
+2024-05-18 23:16:33.976951,Utilities,9534.61,Direct Debit,Finance
+2024-05-04 23:16:33.976951,Technology,12230.41,Direct Debit,IT
+2024-08-19 23:16:33.976951,Technology,4446.35,Check,Operations
+2024-02-04 23:16:33.976951,Maintenance,19794.27,Check,Finance
+2024-04-03 23:16:33.976951,Maintenance,13822.39,Credit Card,IT
+2023-12-28 23:16:33.976951,Rent,7790.95,Check,HR
+2023-12-28 23:16:33.976951,Maintenance,19749.9,Direct Debit,Finance
+2024-03-02 23:16:33.976951,Rent,5300.23,Credit Card,Finance
+2024-06-15 23:16:33.976951,Rent,7600.15,Credit Card,IT
+2024-01-16 23:16:33.976951,Technology,15483.21,Credit Card,Finance
+2024-01-23 23:16:33.976951,Maintenance,14255.08,Direct Debit,HR
+2023-12-27 23:16:33.976951,Maintenance,12967.68,Credit Card,Marketing
+2024-05-17 23:16:33.976951,Rent,11302.89,Credit Card,Marketing
+2023-12-30 23:16:33.976951,Rent,1171.93,Direct Debit,Finance
+2024-06-15 23:16:33.976951,Utilities,7475.68,Credit Card,Finance
+2024-05-13 23:16:33.976951,Salaries,6856.22,Direct Debit,Finance
+2024-07-03 23:16:33.976951,Maintenance,6461.89,Check,Finance
+2023-11-12 23:16:33.976951,Technology,5080.17,Check,HR
+2024-07-08 23:16:33.976951,Maintenance,9111.3,Check,HR
+2023-12-08 23:16:33.976951,Salaries,14532.99,Direct Debit,Finance
+2024-07-19 23:16:33.976951,Rent,7627.97,Direct Debit,HR
+2023-11-03 23:16:33.976951,Utilities,7665.16,Credit Card,Finance
+2024-09-28 23:16:33.976951,Salaries,13247.04,Check,Finance
+2024-09-07 23:16:33.976951,Rent,8100.66,Direct Debit,HR
+2023-11-05 23:16:33.976951,Salaries,1183.72,Credit Card,Marketing
+2023-12-15 23:16:33.976951,Utilities,14500.24,Direct Debit,HR
+2023-10-24 23:16:33.976951,Salaries,19040.35,Credit Card,Marketing
+2023-11-13 23:16:33.976951,Maintenance,1730.2,Direct Debit,HR
+2024-04-24 23:16:33.976951,Rent,2303.5,Check,Marketing
+2024-08-04 23:16:33.976951,Maintenance,12552.0,Check,Marketing
+2023-12-03 23:16:33.976951,Rent,2646.9,Check,IT
+2023-11-02 23:16:33.976951,Technology,10138.84,Direct Debit,Finance
+2024-07-05 23:16:33.976951,Maintenance,3564.72,Direct Debit,IT
+2024-06-12 23:16:33.976951,Salaries,12036.14,Credit Card,Operations
+2024-01-05 23:16:33.976951,Technology,1326.72,Direct Debit,Marketing
+2023-12-11 23:16:33.976951,Technology,6339.64,Credit Card,HR
+2023-12-16 23:16:33.976951,Maintenance,5127.24,Credit Card,IT
+2024-07-21 23:16:33.976951,Utilities,15651.43,Direct Debit,HR
+2024-06-01 23:16:33.976951,Salaries,14611.9,Check,Marketing
+2024-03-18 23:16:33.976951,Utilities,17887.94,Direct Debit,IT
+2024-03-28 23:16:33.976951,Utilities,1264.93,Direct Debit,IT
+2024-06-22 23:16:33.976951,Technology,18291.3,Direct Debit,Finance
+2024-08-30 23:16:33.976951,Salaries,3003.83,Direct Debit,Operations
+2024-06-04 23:16:33.976951,Salaries,18002.19,Credit Card,Operations
+2024-08-12 23:16:33.976951,Utilities,7982.04,Credit Card,HR
+2024-04-27 23:16:33.976951,Rent,6131.8,Credit Card,Marketing
+2024-06-12 23:16:33.976951,Rent,9599.32,Check,Marketing
+2024-01-16 23:16:33.976951,Rent,18103.26,Credit Card,HR
+2024-01-28 23:16:33.976951,Technology,4205.98,Check,Marketing
+2024-03-05 23:16:33.976951,Salaries,10248.54,Direct Debit,Operations
+2024-02-28 23:16:33.976951,Maintenance,13675.66,Direct Debit,HR
+2023-11-16 23:16:33.976951,Salaries,16729.52,Credit Card,IT
+2023-12-23 23:16:33.976951,Utilities,3709.7,Credit Card,Operations
+2024-01-07 23:16:33.976951,Salaries,19878.21,Credit Card,Operations
+2024-05-11 23:16:33.976951,Maintenance,4636.34,Check,Finance
+2023-12-23 23:16:33.976951,Rent,14908.53,Direct Debit,IT
+2023-10-26 23:16:33.976951,Maintenance,2106.84,Credit Card,HR
+2024-06-14 23:16:33.976951,Technology,14875.64,Check,Finance
+2024-02-06 23:16:33.976951,Rent,14243.99,Check,Finance
+2024-03-06 23:16:33.976951,Maintenance,19394.38,Check,Marketing
+2023-10-23 23:16:33.976951,Rent,1279.76,Check,Marketing
+2023-11-02 23:16:33.976951,Salaries,10407.98,Check,Finance
+2023-10-06 23:16:33.976951,Maintenance,16106.01,Check,HR
+2023-10-29 23:16:33.976951,Rent,1012.05,Check,Marketing
+2024-04-24 23:16:33.976951,Utilities,2005.48,Check,Operations
+2024-02-06 23:16:33.976951,Technology,2211.74,Check,HR
+2024-07-16 23:16:33.976951,Rent,8213.25,Direct Debit,HR
+2023-12-21 23:16:33.976951,Utilities,18534.92,Credit Card,Finance
+2024-02-09 23:16:33.976951,Salaries,12512.78,Credit Card,Marketing
+2024-09-16 23:16:33.976951,Salaries,15414.47,Credit Card,Finance
+2024-06-03 23:16:33.976951,Utilities,19142.07,Credit Card,Operations
+2024-01-07 23:16:33.976951,Maintenance,3099.45,Check,Operations
+2024-08-22 23:16:33.976951,Technology,1173.79,Credit Card,IT
+2024-09-30 23:16:33.976951,Technology,17474.23,Check,HR
+2024-06-22 23:16:33.976951,Salaries,9416.51,Direct Debit,HR
+2024-09-01 23:16:33.976951,Rent,15837.17,Direct Debit,Finance
+2024-09-28 23:16:33.976951,Salaries,18443.49,Direct Debit,Operations
+2024-02-09 23:16:33.976951,Salaries,9764.7,Direct Debit,Operations
+2024-08-07 23:16:33.976951,Technology,7692.9,Direct Debit,Marketing
+2024-07-09 23:16:33.976951,Technology,3076.24,Credit Card,Operations
+2024-06-28 23:16:33.976951,Maintenance,13094.03,Credit Card,Marketing
+2024-09-30 23:16:33.976951,Utilities,8191.29,Check,Finance
+2024-04-22 23:16:33.976951,Maintenance,5936.81,Direct Debit,HR
+2024-01-24 23:16:33.976951,Maintenance,16681.33,Direct Debit,IT
+2024-03-28 23:16:33.976951,Salaries,18957.55,Direct Debit,Finance
+2024-02-10 23:16:33.976951,Technology,5961.38,Direct Debit,Operations
+2024-06-19 23:16:33.976951,Rent,19468.81,Check,Operations
+2024-07-11 23:16:33.976951,Technology,18033.84,Check,Finance
+2024-05-11 23:16:33.976951,Utilities,5916.11,Direct Debit,Finance
+2024-02-01 23:16:33.976951,Technology,17394.96,Direct Debit,IT
+2024-08-01 23:16:33.976951,Maintenance,17101.37,Direct Debit,Finance
+2024-05-21 23:16:33.976951,Maintenance,11641.27,Credit Card,IT
